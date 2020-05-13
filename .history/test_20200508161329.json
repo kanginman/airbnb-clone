@@ -1,0 +1,4804 @@
+{
+    "list": [
+        {
+            "id": "1",
+            "word": "a",
+            "mean": "하나의",
+            "speak": "어"
+        },
+        {
+            "id": "2",
+            "word": "about",
+            "mean": "대하여, 관한",
+            "speak": "어바웃"
+        },
+        {
+            "id": "3",
+            "word": "across",
+            "mean": "가로지르다, 건너다",
+            "speak": "어크로스"
+        },
+        {
+            "id": "4",
+            "word": "act",
+            "mean": "행동(활동)하다",
+            "speak": "액트"
+        },
+        {
+            "id": "5",
+            "word": "actor",
+            "mean": "배우",
+            "speak": "액터"
+        },
+        {
+            "id": "6",
+            "word": "address",
+            "mean": "주소",
+            "speak": "어드레스"
+        },
+        {
+            "id": "7",
+            "word": "afraid",
+            "mean": "두려운",
+            "speak": "어프레이드"
+        },
+        {
+            "id": "8",
+            "word": "after",
+            "mean": "~후에",
+            "speak": "에프터"
+        },
+        {
+            "id": "9",
+            "word": "afternoon",
+            "mean": "점심",
+            "speak": "에프터눈"
+        },
+        {
+            "id": "10",
+            "word": "again",
+            "mean": "다시",
+            "speak": "어게인"
+        },
+        {
+            "id": "11",
+            "word": "age",
+            "mean": "나이, 세대",
+            "speak": "에이지"
+        },
+        {
+            "id": "12",
+            "word": "ago",
+            "mean": "~전에",
+            "speak": "어고우"
+        },
+        {
+            "id": "13",
+            "word": "air",
+            "mean": "공기",
+            "speak": "에어"
+        },
+        {
+            "id": "14",
+            "word": "airplane",
+            "mean": "비행기",
+            "speak": "에어플레인"
+        },
+        {
+            "id": "15",
+            "word": "airport",
+            "mean": "공항",
+            "speak": "에어폴트"
+        },
+        {
+            "id": "16",
+            "word": "album",
+            "mean": "앨범",
+            "speak": "앨범"
+        },
+        {
+            "id": "17",
+            "word": "all",
+            "mean": "모두",
+            "speak": "올"
+        },
+        {
+            "id": "18",
+            "word": "along",
+            "mean": "함께",
+            "speak": "얼롱"
+        },
+        {
+            "id": "19",
+            "word": "always",
+            "mean": "항상",
+            "speak": "올웨이즈"
+        },
+        {
+            "id": "20",
+            "word": "among",
+            "mean": "사이에",
+            "speak": "어몽"
+        },
+        {
+            "id": "21",
+            "word": "an",
+            "mean": "하나의",
+            "speak": "언"
+        },
+        {
+            "id": "22",
+            "word": "and",
+            "mean": "그리고",
+            "speak": "앤드"
+        },
+        {
+            "id": "23",
+            "word": "angry",
+            "mean": "화나다",
+            "speak": "앵그리"
+        },
+        {
+            "id": "24",
+            "word": "animal",
+            "mean": "동물",
+            "speak": "애니멀"
+        },
+        {
+            "id": "25",
+            "word": "answer",
+            "mean": "대답하다",
+            "speak": "엔써어"
+        },
+        {
+            "id": "26",
+            "word": "any",
+            "mean": "어떤",
+            "speak": "애니"
+        },
+        {
+            "id": "27",
+            "word": "apartment",
+            "mean": "아파트",
+            "speak": "어파트먼트"
+        },
+        {
+            "id": "28",
+            "word": "apple",
+            "mean": "사과",
+            "speak": "애플"
+        },
+        {
+            "id": "29",
+            "word": "arm",
+            "mean": "팔",
+            "speak": "암"
+        },
+        {
+            "id": "30",
+            "word": "around",
+            "mean": "주위에",
+            "speak": "어라운드"
+        },
+        {
+            "id": "31",
+            "word": "arrive",
+            "mean": "도착하다",
+            "speak": "어라이브"
+        },
+        {
+            "id": "32",
+            "word": "as",
+            "mean": "만큼, 처럼",
+            "speak": "에즈"
+        },
+        {
+            "id": "33",
+            "word": "ask",
+            "mean": "묻다",
+            "speak": "에스크"
+        },
+        {
+            "id": "34",
+            "word": "at",
+            "mean": "~에서",
+            "speak": "엣"
+        },
+        {
+            "id": "35",
+            "word": "aunt",
+            "mean": "아주머니",
+            "speak": "언트"
+        },
+        {
+            "id": "36",
+            "word": "autumn",
+            "mean": "가을",
+            "speak": "어텀"
+        },
+        {
+            "id": "37",
+            "word": "away",
+            "mean": "멀리, 떨어져",
+            "speak": "어웨이"
+        },
+        {
+            "id": "38",
+            "word": "baby",
+            "mean": "아기",
+            "speak": "베이비"
+        },
+        {
+            "id": "39",
+            "word": "back",
+            "mean": "뒤, 등, 돌아오다",
+            "speak": "빽"
+        },
+        {
+            "id": "40",
+            "word": "bad",
+            "mean": "(행동이) 나쁜, 옳지 않은",
+            "speak": "배드"
+        },
+        {
+            "id": "41",
+            "word": "bag",
+            "mean": "자루, 가방",
+            "speak": "백"
+        },
+        {
+            "id": "42",
+            "word": "ball",
+            "mean": "공",
+            "speak": "볼"
+        },
+        {
+            "id": "43",
+            "word": "balloon",
+            "mean": "풍선",
+            "speak": "볼룬"
+        },
+        {
+            "id": "44",
+            "word": "banana",
+            "mean": "바나나",
+            "speak": "버나나"
+        },
+        {
+            "id": "45",
+            "word": "band",
+            "mean": "밴드, 악단",
+            "speak": "밴드"
+        },
+        {
+            "id": "46",
+            "word": "bank",
+            "mean": "은행",
+            "speak": "뱅크"
+        },
+        {
+            "id": "47",
+            "word": "base",
+            "mean": "바닥, (야구의)베이스",
+            "speak": "베이스"
+        },
+        {
+            "id": "48",
+            "word": "basket",
+            "mean": "바구니",
+            "speak": "베스킷"
+        },
+        {
+            "id": "49",
+            "word": "bath",
+            "mean": "목욕",
+            "speak": "배쓰"
+        },
+        {
+            "id": "50",
+            "word": "be",
+            "mean": "~이다, ~이 되다",
+            "speak": "비"
+        },
+        {
+            "id": "51",
+            "word": "beach",
+            "mean": "해변, 바닷가",
+            "speak": "비치"
+        },
+        {
+            "id": "52",
+            "word": "bear",
+            "mean": "곰, 참다, 견디다",
+            "speak": "베어"
+        },
+        {
+            "id": "53",
+            "word": "beautiful",
+            "mean": "아름다운, 예쁜",
+            "speak": "뷰티풀"
+        },
+        {
+            "id": "54",
+            "word": "because",
+            "mean": "왜냐하면, ~이기 때문에",
+            "speak": "비코우즈"
+        },
+        {
+            "id": "55",
+            "word": "become",
+            "mean": "~이 되다",
+            "speak": "비컴"
+        },
+        {
+            "id": "56",
+            "word": "bed",
+            "mean": "침대",
+            "speak": "베드"
+        },
+        {
+            "id": "57",
+            "word": "before",
+            "mean": "~앞에, ~전에",
+            "speak": "비포어"
+        },
+        {
+            "id": "58",
+            "word": "begin",
+            "mean": "시작하다",
+            "speak": "비긴"
+        },
+        {
+            "id": "59",
+            "word": "behind",
+            "mean": "~뒤에",
+            "speak": "비하인드"
+        },
+        {
+            "id": "60",
+            "word": "bell",
+            "mean": "종, 방울, 종소리",
+            "speak": "벨"
+        },
+        {
+            "id": "61",
+            "word": "below",
+            "mean": "~의 밑에, ~의 아래에",
+            "speak": "빌로우"
+        },
+        {
+            "id": "62",
+            "word": "bench",
+            "mean": "벤치, 긴 의자",
+            "speak": "벤치"
+        },
+        {
+            "id": "63",
+            "word": "beside",
+            "mean": "~의 옆에",
+            "speak": "비사이드"
+        },
+        {
+            "id": "64",
+            "word": "between",
+            "mean": "~의 사이에",
+            "speak": "비튀인"
+        },
+        {
+            "id": "65",
+            "word": "bicycle",
+            "mean": "자전거",
+            "speak": "바이시클"
+        },
+        {
+            "id": "66",
+            "word": "big",
+            "mean": "큰, 커다란",
+            "speak": "빅"
+        },
+        {
+            "id": "67",
+            "word": "bird",
+            "mean": "새",
+            "speak": "버드"
+        },
+        {
+            "id": "68",
+            "word": "birthday",
+            "mean": "생일",
+            "speak": "버쓰데이"
+        },
+        {
+            "id": "69",
+            "word": "black",
+            "mean": "검은, 검은색",
+            "speak": "블랙"
+        },
+        {
+            "id": "70",
+            "word": "blank",
+            "mean": "비어있는",
+            "speak": "브랭크"
+        },
+        {
+            "id": "71",
+            "word": "blow",
+            "mean": "(바람이)불다",
+            "speak": "블로우"
+        },
+        {
+            "id": "72",
+            "word": "blue",
+            "mean": "파란, 푸른",
+            "speak": "블루"
+        },
+        {
+            "id": "73",
+            "word": "board",
+            "mean": "널빤지, 판자, 판",
+            "speak": "보드"
+        },
+        {
+            "id": "74",
+            "word": "boat",
+            "mean": "보트, 작은 배",
+            "speak": "보트"
+        },
+        {
+            "id": "75",
+            "word": "body",
+            "mean": "몸, 신체",
+            "speak": "바디"
+        },
+        {
+            "id": "76",
+            "word": "book",
+            "mean": "책",
+            "speak": "북"
+        },
+        {
+            "id": "77",
+            "word": "bottle",
+            "mean": "병",
+            "speak": "보틀"
+        },
+        {
+            "id": "78",
+            "word": "bowl",
+            "mean": "주발, 사발, 그릇",
+            "speak": "바울"
+        },
+        {
+            "id": "79",
+            "word": "box",
+            "mean": "상자",
+            "speak": "박스"
+        },
+        {
+            "id": "80",
+            "word": "boy",
+            "mean": "소년, 사내아이",
+            "speak": "보이"
+        },
+        {
+            "id": "81",
+            "word": "bread",
+            "mean": "빵",
+            "speak": "브레드"
+        },
+        {
+            "id": "82",
+            "word": "break",
+            "mean": "깨다, 부수다",
+            "speak": "브레이크"
+        },
+        {
+            "id": "83",
+            "word": "breakfast",
+            "mean": "아침식사",
+            "speak": "블랙퍼스트"
+        },
+        {
+            "id": "84",
+            "word": "bridge",
+            "mean": "다리, 교량",
+            "speak": "브릿지"
+        },
+        {
+            "id": "85",
+            "word": "bright",
+            "mean": "밝은, 눈부신, 빛나는",
+            "speak": "브라이트"
+        },
+        {
+            "id": "86",
+            "word": "bring",
+            "mean": "가져오다, 데려오다",
+            "speak": "브링"
+        },
+        {
+            "id": "87",
+            "word": "brother",
+            "mean": "형, 오빠, 남동생",
+            "speak": "브러더"
+        },
+        {
+            "id": "88",
+            "word": "brown",
+            "mean": "갈색의, 밤색",
+            "speak": "브라운"
+        },
+        {
+            "id": "89",
+            "word": "brush",
+            "mean": "솔",
+            "speak": "브러쉬"
+        },
+        {
+            "id": "90",
+            "word": "build",
+            "mean": "짓다, 세우다",
+            "speak": "빌드"
+        },
+        {
+            "id": "91",
+            "word": "burn",
+            "mean": "(불에)타다, 화상",
+            "speak": "번"
+        },
+        {
+            "id": "92",
+            "word": "burnt",
+            "mean": "탔다",
+            "speak": "버언트"
+        },
+        {
+            "id": "93",
+            "word": "bus",
+            "mean": "버스",
+            "speak": "버스"
+        },
+        {
+            "id": "94",
+            "word": "busy",
+            "mean": "바쁜",
+            "speak": "비지"
+        },
+        {
+            "id": "95",
+            "word": "but",
+            "mean": "그러나",
+            "speak": "벗"
+        },
+        {
+            "id": "96",
+            "word": "butter",
+            "mean": "버터",
+            "speak": "버터"
+        },
+        {
+            "id": "97",
+            "word": "button",
+            "mean": "단추",
+            "speak": "버튼"
+        },
+        {
+            "id": "98",
+            "word": "buy",
+            "mean": "사다",
+            "speak": "바이"
+        },
+        {
+            "id": "99",
+            "word": "by",
+            "mean": "~의 옆에",
+            "speak": "바이"
+        },
+        {
+            "id": "100",
+            "word": "bye",
+            "mean": "안녕(헤어질 때)",
+            "speak": "바이"
+        },
+        {
+            "id": "101",
+            "word": "cake",
+            "mean": "케이크",
+            "speak": "케이크"
+        },
+        {
+            "id": "102",
+            "word": "calenda",
+            "mean": "달력",
+            "speak": "칼렌더"
+        },
+        {
+            "id": "103",
+            "word": "call",
+            "mean": "~를 부르다, 전화하다",
+            "speak": "콜"
+        },
+        {
+            "id": "104",
+            "word": "camera",
+            "mean": "카메라, 사진기 ",
+            "speak": "카메라"
+        },
+        {
+            "id": "105",
+            "word": "camp",
+            "mean": "야영하다, 캠프하다",
+            "speak": "캠프"
+        },
+        {
+            "id": "106",
+            "word": "can",
+            "mean": "~할 수 있다",
+            "speak": "캔"
+        },
+        {
+            "id": "107",
+            "word": "candle",
+            "mean": "양초",
+            "speak": "캔들"
+        },
+        {
+            "id": "108",
+            "word": "candy",
+            "mean": "사탕, 캔디",
+            "speak": "캔디"
+        },
+        {
+            "id": "109",
+            "word": "cap",
+            "mean": "모자",
+            "speak": "캡"
+        },
+        {
+            "id": "110",
+            "word": "capital",
+            "mean": "수도",
+            "speak": "캐피탈"
+        },
+        {
+            "id": "111",
+            "word": "captain",
+            "mean": "선장",
+            "speak": "캡틴"
+        },
+        {
+            "id": "112",
+            "word": "car",
+            "mean": "자동차",
+            "speak": "카"
+        },
+        {
+            "id": "113",
+            "word": "card",
+            "mean": "카드",
+            "speak": "카드"
+        },
+        {
+            "id": "114",
+            "word": "care",
+            "mean": "주의, 조심",
+            "speak": "케어"
+        },
+        {
+            "id": "115",
+            "word": "carpenter",
+            "mean": "목공",
+            "speak": "카펜터"
+        },
+        {
+            "id": "116",
+            "word": "carry",
+            "mean": "~을 나르다",
+            "speak": "케리"
+        },
+        {
+            "id": "117",
+            "word": "cartoon",
+            "mean": "만화",
+            "speak": "카툰"
+        },
+        {
+            "id": "118",
+            "word": "case",
+            "mean": "상자",
+            "speak": "케이스"
+        },
+        {
+            "id": "119",
+            "word": "cassette",
+            "mean": "카세트",
+            "speak": "카세트"
+        },
+        {
+            "id": "120",
+            "word": "cat",
+            "mean": "고양이",
+            "speak": "캣"
+        },
+        {
+            "id": "121",
+            "word": "catch",
+            "mean": "잡다",
+            "speak": "캐치"
+        },
+        {
+            "id": "122",
+            "word": "ceiling",
+            "mean": "(방의) 천장",
+            "speak": "실링"
+        },
+        {
+            "id": "123",
+            "word": "center",
+            "mean": "중심, 중앙",
+            "speak": "센터"
+        },
+        {
+            "id": "124",
+            "word": "chair",
+            "mean": "의자",
+            "speak": "체어"
+        },
+        {
+            "id": "125",
+            "word": "chalk",
+            "mean": "분필, 백묵",
+            "speak": "초크"
+        },
+        {
+            "id": "126",
+            "word": "chance",
+            "mean": "기회",
+            "speak": "챈스"
+        },
+        {
+            "id": "127",
+            "word": "change",
+            "mean": "변화다, 바꾸다",
+            "speak": "체인지"
+        },
+        {
+            "id": "128",
+            "word": "cheap",
+            "mean": "값싼",
+            "speak": "칩"
+        },
+        {
+            "id": "129",
+            "word": "cheese",
+            "mean": "치즈",
+            "speak": "치즈"
+        },
+        {
+            "id": "130",
+            "word": "chicken",
+            "mean": "닭, 닭고기",
+            "speak": "치킨"
+        },
+        {
+            "id": "131",
+            "word": "child",
+            "mean": "어린이, 아이",
+            "speak": "차일드"
+        },
+        {
+            "id": "132",
+            "word": "chopstick",
+            "mean": "젓가락",
+            "speak": "촙스틱"
+        },
+        {
+            "id": "133",
+            "word": "church",
+            "mean": "교회",
+            "speak": "처치"
+        },
+        {
+            "id": "134",
+            "word": "circle",
+            "mean": "원",
+            "speak": "서클"
+        },
+        {
+            "id": "135",
+            "word": "city",
+            "mean": "도시",
+            "speak": "시트"
+        },
+        {
+            "id": "136",
+            "word": "class",
+            "mean": "학급, 반, 수업",
+            "speak": "클레스"
+        },
+        {
+            "id": "137",
+            "word": "classmate",
+            "mean": "급우, 반 친구",
+            "speak": "클레스 메이트"
+        },
+        {
+            "id": "138",
+            "word": "clean",
+            "mean": "깨끗한, 청결한",
+            "speak": "클린"
+        },
+        {
+            "id": "139",
+            "word": "climb",
+            "mean": "(나무, 산 등에) 오르다",
+            "speak": "클라임"
+        },
+        {
+            "id": "140",
+            "word": "clock",
+            "mean": "시계, 탁상시계",
+            "speak": "클락"
+        },
+        {
+            "id": "141",
+            "word": "close",
+            "mean": "닫다",
+            "speak": "클로우즈"
+        },
+        {
+            "id": "142",
+            "word": "clothes",
+            "mean": "옷",
+            "speak": "클로스"
+        },
+        {
+            "id": "143",
+            "word": "cloud",
+            "mean": "구름",
+            "speak": "클라우드"
+        },
+        {
+            "id": "144",
+            "word": "club",
+            "mean": "클럽, 모임",
+            "speak": "클럽"
+        },
+        {
+            "id": "145",
+            "word": "coat",
+            "mean": "코트, 외투",
+            "speak": "코트"
+        },
+        {
+            "id": "146",
+            "word": "coffee",
+            "mean": "커피",
+            "speak": "커피"
+        },
+        {
+            "id": "147",
+            "word": "coin",
+            "mean": "동전",
+            "speak": "코인"
+        },
+        {
+            "id": "148",
+            "word": "cold",
+            "mean": "추운, 차가운",
+            "speak": "콜드"
+        },
+        {
+            "id": "149",
+            "word": "color",
+            "mean": "빛깔, 색",
+            "speak": "컬러"
+        },
+        {
+            "id": "150",
+            "word": "come",
+            "mean": "오다",
+            "speak": "컴"
+        },
+        {
+            "id": "151",
+            "word": "comic book",
+            "mean": "만화책",
+            "speak": "코믹 북"
+        },
+        {
+            "id": "152",
+            "word": "computer",
+            "mean": "컴퓨터",
+            "speak": "컴퓨터"
+        },
+        {
+            "id": "153",
+            "word": "cook",
+            "mean": "요리사",
+            "speak": "쿡"
+        },
+        {
+            "id": "154",
+            "word": "cool",
+            "mean": "시원한, 서늘한",
+            "speak": "쿨"
+        },
+        {
+            "id": "155",
+            "word": "copy",
+            "mean": "그대로 옮겨 쓰다",
+            "speak": "카피"
+        },
+        {
+            "id": "156",
+            "word": "corner",
+            "mean": "구석, 모퉁이",
+            "speak": "코너"
+        },
+        {
+            "id": "157",
+            "word": "count",
+            "mean": "세다",
+            "speak": "카운트"
+        },
+        {
+            "id": "158",
+            "word": "country",
+            "mean": "나라, 국가, 시골",
+            "speak": "컨추리"
+        },
+        {
+            "id": "159",
+            "word": "course",
+            "mean": "과목, 경로",
+            "speak": "코스"
+        },
+        {
+            "id": "160",
+            "word": "cousin",
+            "mean": "사촌",
+            "speak": "커즌"
+        },
+        {
+            "id": "161",
+            "word": "cover",
+            "mean": "가리다, 덮다",
+            "speak": "커버"
+        },
+        {
+            "id": "162",
+            "word": "cow",
+            "mean": "암소",
+            "speak": "카우"
+        },
+        {
+            "id": "163",
+            "word": "crayon",
+            "mean": "크레용",
+            "speak": "크레용"
+        },
+        {
+            "id": "164",
+            "word": "cream",
+            "mean": "크림, 크림색의",
+            "speak": "크림"
+        },
+        {
+            "id": "165",
+            "word": "cross",
+            "mean": "(길 따위를) 건너다",
+            "speak": "크로스"
+        },
+        {
+            "id": "166",
+            "word": "cry",
+            "mean": "울다, 외치다",
+            "speak": "크라이"
+        },
+        {
+            "id": "167",
+            "word": "cup",
+            "mean": "컵, 잔",
+            "speak": "컵"
+        },
+        {
+            "id": "168",
+            "word": "curtain",
+            "mean": "커튼",
+            "speak": "커튼"
+        },
+        {
+            "id": "169",
+            "word": "cut",
+            "mean": "자르다",
+            "speak": "컷"
+        },
+        {
+            "id": "170",
+            "word": "cute",
+            "mean": "귀여운",
+            "speak": "큐트"
+        },
+        {
+            "id": "171",
+            "word": "dad",
+            "mean": "아빠",
+            "speak": "대드"
+        },
+        {
+            "id": "172",
+            "word": "dance",
+            "mean": "춤추다",
+            "speak": "댄스"
+        },
+        {
+            "id": "173",
+            "word": "danger",
+            "mean": "위험, 위독한 상태",
+            "speak": "댄저"
+        },
+        {
+            "id": "174",
+            "word": "dark",
+            "mean": "캄캄한, 어두운",
+            "speak": "다크"
+        },
+        {
+            "id": "175",
+            "word": "date",
+            "mean": "날짜",
+            "speak": "데이트"
+        },
+        {
+            "id": "176",
+            "word": "daughter",
+            "mean": "딸",
+            "speak": "도터"
+        },
+        {
+            "id": "177",
+            "word": "day",
+            "mean": "낮, 하루, ~일",
+            "speak": "데이"
+        },
+        {
+            "id": "178",
+            "word": "dead",
+            "mean": "죽은",
+            "speak": "데드"
+        },
+        {
+            "id": "179",
+            "word": "deep",
+            "mean": "깊은",
+            "speak": "딥"
+        },
+        {
+            "id": "180",
+            "word": "deer",
+            "mean": "사슴",
+            "speak": "디어"
+        },
+        {
+            "id": "181",
+            "word": "desk",
+            "mean": "책상",
+            "speak": "데스크"
+        },
+        {
+            "id": "182",
+            "word": "dial",
+            "mean": "다이얼",
+            "speak": "다이얼"
+        },
+        {
+            "id": "183",
+            "word": "diary",
+            "mean": "일기",
+            "speak": "다아이어리"
+        },
+        {
+            "id": "184",
+            "word": "dictionary",
+            "mean": "사전",
+            "speak": "딕셔너리"
+        },
+        {
+            "id": "185",
+            "word": "die",
+            "mean": "죽다, 사망하다",
+            "speak": "다이"
+        },
+        {
+            "id": "186",
+            "word": "dinner",
+            "mean": "저녁식사",
+            "speak": "디너"
+        },
+        {
+            "id": "187",
+            "word": "dirty",
+            "mean": "더러운",
+            "speak": "더티"
+        },
+        {
+            "id": "188",
+            "word": "dish",
+            "mean": "접시",
+            "speak": "디쉬"
+        },
+        {
+            "id": "189",
+            "word": "do",
+            "mean": "~을 하다, 행하다",
+            "speak": "두"
+        },
+        {
+            "id": "190",
+            "word": "doctor",
+            "mean": "의사",
+            "speak": "닥터"
+        },
+        {
+            "id": "191",
+            "word": "dog",
+            "mean": "개",
+            "speak": "도그"
+        },
+        {
+            "id": "192",
+            "word": "doll",
+            "mean": "인형",
+            "speak": "돌"
+        },
+        {
+            "id": "193",
+            "word": "dollar",
+            "mean": "달러(미국의 화폐단위)",
+            "speak": "달러"
+        },
+        {
+            "id": "194",
+            "word": "dolphin",
+            "mean": "돌고래",
+            "speak": "돌핀"
+        },
+        {
+            "id": "195",
+            "word": "door",
+            "mean": "문",
+            "speak": "도어"
+        },
+        {
+            "id": "196",
+            "word": "down",
+            "mean": "아래",
+            "speak": "다운"
+        },
+        {
+            "id": "197",
+            "word": "draw",
+            "mean": "~을 그리다",
+            "speak": "드로우"
+        },
+        {
+            "id": "198",
+            "word": "dream",
+            "mean": "꿈",
+            "speak": "드림"
+        },
+        {
+            "id": "199",
+            "word": "dress",
+            "mean": "드레스, 옷",
+            "speak": "드레스"
+        },
+        {
+            "id": "200",
+            "word": "drink",
+            "mean": "(물이나 음료 등을) 마시다",
+            "speak": "드링크"
+        },
+        {
+            "id": "201",
+            "word": "drive",
+            "mean": "운전하다",
+            "speak": "드라이브"
+        },
+        {
+            "id": "202",
+            "word": "drop",
+            "mean": "~을 떨어뜨리다",
+            "speak": "드롭"
+        },
+        {
+            "id": "203",
+            "word": "drum",
+            "mean": "북, 드럼",
+            "speak": "드럼"
+        },
+        {
+            "id": "204",
+            "word": "dry",
+            "mean": "마른, 건조한",
+            "speak": "드라이"
+        },
+        {
+            "id": "205",
+            "word": "duck",
+            "mean": "오리",
+            "speak": "덕"
+        },
+        {
+            "id": "206",
+            "word": "ear",
+            "mean": "귀",
+            "speak": "이어"
+        },
+        {
+            "id": "207",
+            "word": "early",
+            "mean": "일찍",
+            "speak": "얼리"
+        },
+        {
+            "id": "208",
+            "word": "earth",
+            "mean": "지구",
+            "speak": "어쓰"
+        },
+        {
+            "id": "209",
+            "word": "east",
+            "mean": "동쪽",
+            "speak": "이스트"
+        },
+        {
+            "id": "210",
+            "word": "echo",
+            "mean": "메아리",
+            "speak": "에코"
+        },
+        {
+            "id": "211",
+            "word": "empty",
+            "mean": "빈, 비어있는",
+            "speak": "엠프티"
+        },
+        {
+            "id": "212",
+            "word": "end",
+            "mean": "끝, 마지막",
+            "speak": "앤드"
+        },
+        {
+            "id": "213",
+            "word": "engine",
+            "mean": "(기계의)엔진",
+            "speak": "엔진"
+        },
+        {
+            "id": "214",
+            "word": "enjoy",
+            "mean": "~을 즐기다",
+            "speak": "엔조이"
+        },
+        {
+            "id": "215",
+            "word": "enough",
+            "mean": "충분히, ~할 만큼",
+            "speak": "이너프"
+        },
+        {
+            "id": "216",
+            "word": "evening",
+            "mean": "저녁, 밤",
+            "speak": "이브닝"
+        },
+        {
+            "id": "217",
+            "word": "every",
+            "mean": "매~, 모든",
+            "speak": "에브리"
+        },
+        {
+            "id": "218",
+            "word": "example",
+            "mean": "보기, 사례",
+            "speak": "이그잼플"
+        },
+        {
+            "id": "219",
+            "word": "excellent",
+            "mean": "뛰어난, 우수한",
+            "speak": "엑셀런트"
+        },
+        {
+            "id": "220",
+            "word": "excite",
+            "mean": "흥분시키다, 자극하다",
+            "speak": "익사이트"
+        },
+        {
+            "id": "221",
+            "word": "excuse",
+            "mean": "용서하다, 변명",
+            "speak": "익스큐즈"
+        },
+        {
+            "id": "222",
+            "word": "exercise",
+            "mean": "운동",
+            "speak": "엑써사이즈"
+        },
+        {
+            "id": "223",
+            "word": "eye",
+            "mean": "눈",
+            "speak": "아이"
+        },
+        {
+            "id": "224",
+            "word": "face",
+            "mean": "얼굴",
+            "speak": "페이스"
+        },
+        {
+            "id": "225",
+            "word": "fact",
+            "mean": "사실",
+            "speak": "팩트"
+        },
+        {
+            "id": "226",
+            "word": "fair",
+            "mean": "공평한, 공정한",
+            "speak": "페어"
+        },
+        {
+            "id": "227",
+            "word": "fall",
+            "mean": "떨어지다, 넘어지다, 가을",
+            "speak": "폴"
+        },
+        {
+            "id": "228",
+            "word": "family",
+            "mean": "가족",
+            "speak": "패밀리"
+        },
+        {
+            "id": "229",
+            "word": "famous",
+            "mean": "유명한",
+            "speak": "페이머스"
+        },
+        {
+            "id": "230",
+            "word": "far",
+            "mean": "멀리, 멀리 떨어져",
+            "speak": "파"
+        },
+        {
+            "id": "231",
+            "word": "farm",
+            "mean": "농장, 목장",
+            "speak": "팜"
+        },
+        {
+            "id": "232",
+            "word": "fast",
+            "mean": "빠른",
+            "speak": "패스트"
+        },
+        {
+            "id": "233",
+            "word": "fat",
+            "mean": "뚱뚱한, 살찐",
+            "speak": "팻"
+        },
+        {
+            "id": "234",
+            "word": "father",
+            "mean": "아버지",
+            "speak": "파더"
+        },
+        {
+            "id": "235",
+            "word": "feel",
+            "mean": "~을 느끼다",
+            "speak": "필"
+        },
+        {
+            "id": "236",
+            "word": "few",
+            "mean": "거의 없는",
+            "speak": "퓨"
+        },
+        {
+            "id": "237",
+            "word": "field",
+            "mean": "밭, 들판, 경기장",
+            "speak": "필드"
+        },
+        {
+            "id": "238",
+            "word": "fight",
+            "mean": "싸우다",
+            "speak": "파이트"
+        },
+        {
+            "id": "239",
+            "word": "fill",
+            "mean": "~을 채우다",
+            "speak": "필"
+        },
+        {
+            "id": "240",
+            "word": "film",
+            "mean": "필름, 영화",
+            "speak": "필림"
+        },
+        {
+            "id": "241",
+            "word": "find",
+            "mean": "~을 발견하다, ~을 찾다",
+            "speak": "파인드"
+        },
+        {
+            "id": "242",
+            "word": "fine",
+            "mean": "좋은, 훌륭한",
+            "speak": "파인"
+        },
+        {
+            "id": "243",
+            "word": "finger",
+            "mean": "손가락",
+            "speak": "핑겨"
+        },
+        {
+            "id": "244",
+            "word": "finish",
+            "mean": "~을 끝내다",
+            "speak": "피니시"
+        },
+        {
+            "id": "245",
+            "word": "fire",
+            "mean": "불, 화재",
+            "speak": "파이어"
+        },
+        {
+            "id": "246",
+            "word": "fish",
+            "mean": "물고기",
+            "speak": "피쉬"
+        },
+        {
+            "id": "247",
+            "word": "fix ",
+            "mean": "고치다, 고정 시키다",
+            "speak": "픽스"
+        },
+        {
+            "id": "248",
+            "word": "flag",
+            "mean": "기, 깃발",
+            "speak": "플레그"
+        },
+        {
+            "id": "249",
+            "word": "floor",
+            "mean": "마루, 바닥",
+            "speak": "플로어"
+        },
+        {
+            "id": "250",
+            "word": "flower",
+            "mean": "꽃",
+            "speak": "플라워"
+        },
+        {
+            "id": "251",
+            "word": "fly",
+            "mean": "날다, ~을 날리다",
+            "speak": "플라이"
+        },
+        {
+            "id": "252",
+            "word": "follow",
+            "mean": "~을 따르다",
+            "speak": "팔로우"
+        },
+        {
+            "id": "253",
+            "word": "food",
+            "mean": "음식",
+            "speak": "푸드"
+        },
+        {
+            "id": "254",
+            "word": "fool",
+            "mean": "바보",
+            "speak": "풀"
+        },
+        {
+            "id": "255",
+            "word": "foot",
+            "mean": "발",
+            "speak": "풋"
+        },
+        {
+            "id": "256",
+            "word": "for",
+            "mean": "~동안, ~을 위해",
+            "speak": "포"
+        },
+        {
+            "id": "257",
+            "word": "forget",
+            "mean": "~을 잊다",
+            "speak": "포겟"
+        },
+        {
+            "id": "258",
+            "word": "fork",
+            "mean": "식탁용 포크, 갈림길",
+            "speak": "포크"
+        },
+        {
+            "id": "259",
+            "word": "free",
+            "mean": "무료, 한가한, 여유 있는",
+            "speak": "프리"
+        },
+        {
+            "id": "260",
+            "word": "fresh",
+            "mean": "신선한, 새로운",
+            "speak": "프레쉬"
+        },
+        {
+            "id": "261",
+            "word": "friend",
+            "mean": "친구",
+            "speak": "플랜드"
+        },
+        {
+            "id": "262",
+            "word": "from",
+            "mean": "~에서, ~로부터",
+            "speak": "프롬"
+        },
+        {
+            "id": "263",
+            "word": "front",
+            "mean": "앞",
+            "speak": "프런트"
+        },
+        {
+            "id": "264",
+            "word": "fruit",
+            "mean": "과일",
+            "speak": "플룻트"
+        },
+        {
+            "id": "265",
+            "word": "full",
+            "mean": "가득 찬, 가득한",
+            "speak": "풀"
+        },
+        {
+            "id": "266",
+            "word": "fun",
+            "mean": "재미, 즐거움, 장난",
+            "speak": "펀"
+        },
+        {
+            "id": "267",
+            "word": "game",
+            "mean": "놀이, 게임, 시합",
+            "speak": "게임"
+        },
+        {
+            "id": "268",
+            "word": "garden",
+            "mean": "정원",
+            "speak": "가든"
+        },
+        {
+            "id": "269",
+            "word": "gas",
+            "mean": "휘발유, 기름",
+            "speak": "가스"
+        },
+        {
+            "id": "270",
+            "word": "gate",
+            "mean": "문, 출입문",
+            "speak": "게이트"
+        },
+        {
+            "id": "271",
+            "word": "gentle",
+            "mean": "온화한, 상냥한",
+            "speak": "잰틀"
+        },
+        {
+            "id": "272",
+            "word": "get",
+            "mean": "~을 얻다, ~을 사다",
+            "speak": "겟"
+        },
+        {
+            "id": "273",
+            "word": "girl",
+            "mean": "소녀",
+            "speak": "걸"
+        },
+        {
+            "id": "274",
+            "word": "give",
+            "mean": "~을 주다",
+            "speak": "기브"
+        },
+        {
+            "id": "275",
+            "word": "glad",
+            "mean": "즐거운, 기쁜, 기꺼이~하다",
+            "speak": "그레이드"
+        },
+        {
+            "id": "276",
+            "word": "glass",
+            "mean": "유리, 잔",
+            "speak": "글레스"
+        },
+        {
+            "id": "277",
+            "word": "glove",
+            "mean": "장갑(의 한쪽)",
+            "speak": "글러브"
+        },
+        {
+            "id": "278",
+            "word": "go",
+            "mean": "가다",
+            "speak": "고"
+        },
+        {
+            "id": "279",
+            "word": "god",
+            "mean": "신",
+            "speak": "갓"
+        },
+        {
+            "id": "280",
+            "word": "gold",
+            "mean": "황금, 금, 황금으로 만든",
+            "speak": "골드"
+        },
+        {
+            "id": "281",
+            "word": "good",
+            "mean": "착한, 좋은",
+            "speak": "굳"
+        },
+        {
+            "id": "282",
+            "word": "grandma",
+            "mean": "할머니",
+            "speak": "그랜드마"
+        },
+        {
+            "id": "283",
+            "word": "grape",
+            "mean": "포도",
+            "speak": "그레이프"
+        },
+        {
+            "id": "284",
+            "word": "grass",
+            "mean": "풀, 잔디",
+            "speak": "글라스"
+        },
+        {
+            "id": "285",
+            "word": "gray",
+            "mean": "회색, 회색의",
+            "speak": "그레이"
+        },
+        {
+            "id": "286",
+            "word": "great",
+            "mean": "큰, 거대한, 웅장한",
+            "speak": "그레이트"
+        },
+        {
+            "id": "287",
+            "word": "green",
+            "mean": "녹색, 녹색의",
+            "speak": "그린"
+        },
+        {
+            "id": "288",
+            "word": "ground",
+            "mean": "땅, 지면",
+            "speak": "그라운드"
+        },
+        {
+            "id": "289",
+            "word": "group",
+            "mean": "모임, 집단, 무리",
+            "speak": "그룹"
+        },
+        {
+            "id": "290",
+            "word": "grow",
+            "mean": "자라다, 성장하다, ~이 되다",
+            "speak": "그로우"
+        },
+        {
+            "id": "291",
+            "word": "guitar",
+            "mean": "기타",
+            "speak": "기타"
+        },
+        {
+            "id": "292",
+            "word": "hair",
+            "mean": "머리카락",
+            "speak": "헤어"
+        },
+        {
+            "id": "293",
+            "word": "half",
+            "mean": "반, 절반",
+            "speak": "하프"
+        },
+        {
+            "id": "294",
+            "word": "hall",
+            "mean": "공회당, 회관",
+            "speak": "홀"
+        },
+        {
+            "id": "295",
+            "word": "hamburger",
+            "mean": "햄버거",
+            "speak": "햄버거"
+        },
+        {
+            "id": "296",
+            "word": "hand",
+            "mean": "손",
+            "speak": "핸드"
+        },
+        {
+            "id": "297",
+            "word": "handle",
+            "mean": "~을 다루다, 처리하다, 손잡이",
+            "speak": "핸들"
+        },
+        {
+            "id": "298",
+            "word": "handsome",
+            "mean": "잘생긴",
+            "speak": "핸썸"
+        },
+        {
+            "id": "299",
+            "word": "happen",
+            "mean": "(사건이)일어나다, 발생하다",
+            "speak": "해픈"
+        },
+        {
+            "id": "300",
+            "word": "happy",
+            "mean": "행복한",
+            "speak": "해피"
+        },
+        {
+            "id": "301",
+            "word": "hard",
+            "mean": "어려운, 단단한, 열심히",
+            "speak": "하드"
+        },
+        {
+            "id": "302",
+            "word": "hat",
+            "mean": "모자",
+            "speak": "햇"
+        },
+        {
+            "id": "303",
+            "word": "hate",
+            "mean": "미워하다, 싫어하다",
+            "speak": "헤이트"
+        },
+        {
+            "id": "304",
+            "word": "have",
+            "mean": "가지다, 가지고 있다, ~하다",
+            "speak": "해브"
+        },
+        {
+            "id": "305",
+            "word": "he",
+            "mean": "그가, 그는",
+            "speak": "히"
+        },
+        {
+            "id": "306",
+            "word": "head",
+            "mean": "머리, 우두머리, 대표",
+            "speak": "헤드"
+        },
+        {
+            "id": "307",
+            "word": "hear",
+            "mean": "~이 들리다, ~을 듣다",
+            "speak": "히어"
+        },
+        {
+            "id": "308",
+            "word": "heart",
+            "mean": "심장, 가슴, 마음",
+            "speak": "하트"
+        },
+        {
+            "id": "309",
+            "word": "heavy",
+            "mean": "무거운",
+            "speak": "헤비"
+        },
+        {
+            "id": "310",
+            "word": "hello",
+            "mean": "(가벼운 인사)안녕",
+            "speak": "헬로우"
+        },
+        {
+            "id": "311",
+            "word": "help",
+            "mean": "~을 돕다",
+            "speak": "헬프"
+        },
+        {
+            "id": "312",
+            "word": "hen",
+            "mean": "암탉",
+            "speak": "헨"
+        },
+        {
+            "id": "313",
+            "word": "here",
+            "mean": "여기에서, 여기에",
+            "speak": "히어"
+        },
+        {
+            "id": "314",
+            "word": "hi",
+            "mean": "안녕",
+            "speak": "하이"
+        },
+        {
+            "id": "315",
+            "word": "hide",
+            "mean": "숨다",
+            "speak": "하이드"
+        },
+        {
+            "id": "316",
+            "word": "high",
+            "mean": "높은, 높이, 높게",
+            "speak": "하이"
+        },
+        {
+            "id": "317",
+            "word": "hiking",
+            "mean": "하이킹, 도보여행",
+            "speak": "하이킹"
+        },
+        {
+            "id": "318",
+            "word": "hill",
+            "mean": "언덕",
+            "speak": "힐"
+        },
+        {
+            "id": "319",
+            "word": "hit",
+            "mean": "~을 치다, 때리다",
+            "speak": "히트"
+        },
+        {
+            "id": "320",
+            "word": "hold",
+            "mean": " ~을 들다, 잡다, 쥐다",
+            "speak": "홀드"
+        },
+        {
+            "id": "321",
+            "word": "hole",
+            "mean": "구멍",
+            "speak": "홀"
+        },
+        {
+            "id": "322",
+            "word": "holiday",
+            "mean": "공휴일, 휴일",
+            "speak": "홀리데이"
+        },
+        {
+            "id": "323",
+            "word": "home",
+            "mean": "가정, 집",
+            "speak": "홈"
+        },
+        {
+            "id": "324",
+            "word": "hope",
+            "mean": "희망, 기대, 희망하다",
+            "speak": "호프"
+        },
+        {
+            "id": "325",
+            "word": "horse",
+            "mean": "말",
+            "speak": "호오스"
+        },
+        {
+            "id": "326",
+            "word": "hose",
+            "mean": "호스",
+            "speak": "호스"
+        },
+        {
+            "id": "327",
+            "word": "hospital",
+            "mean": "병원",
+            "speak": "하스피털"
+        },
+        {
+            "id": "328",
+            "word": "hot",
+            "mean": "뜨거운, 더운",
+            "speak": "핫"
+        },
+        {
+            "id": "329",
+            "word": "hotel",
+            "mean": "호텔",
+            "speak": "호텔"
+        },
+        {
+            "id": "330",
+            "word": "hour",
+            "mean": "시간",
+            "speak": "아우어"
+        },
+        {
+            "id": "331",
+            "word": "house",
+            "mean": "집",
+            "speak": "하우스"
+        },
+        {
+            "id": "332",
+            "word": "how",
+            "mean": "어떻게, 어느 정도, 얼마만큼",
+            "speak": "하우"
+        },
+        {
+            "id": "333",
+            "word": "hundred",
+            "mean": "백, 백의",
+            "speak": "헌드레드"
+        },
+        {
+            "id": "334",
+            "word": "hungry",
+            "mean": "배고픈, 굶주린",
+            "speak": "헝그리"
+        },
+        {
+            "id": "335",
+            "word": "hurry",
+            "mean": "서두르다, 급한 상태",
+            "speak": "허리"
+        },
+        {
+            "id": "336",
+            "word": "hurt",
+            "mean": "아프다, 다치다",
+            "speak": "허트"
+        },
+        {
+            "id": "337",
+            "word": "ice",
+            "mean": "얼음, 빙판",
+            "speak": "아이스"
+        },
+        {
+            "id": "338",
+            "word": "idea",
+            "mean": "생각",
+            "speak": "아이디어"
+        },
+        {
+            "id": "339",
+            "word": "if",
+            "mean": "만일~라면",
+            "speak": "이프"
+        },
+        {
+            "id": "340",
+            "word": "ill",
+            "mean": "병든, 건강이 나쁜",
+            "speak": "일"
+        },
+        {
+            "id": "341",
+            "word": "in",
+            "mean": "~안에(서)",
+            "speak": "인"
+        },
+        {
+            "id": "342",
+            "word": "ink",
+            "mean": "잉크",
+            "speak": "잉크"
+        },
+        {
+            "id": "343",
+            "word": "interest",
+            "mean": "관심, 흥미",
+            "speak": "인터레스트"
+        },
+        {
+            "id": "344",
+            "word": "into",
+            "mean": "~안으로, ~속으로",
+            "speak": "인투"
+        },
+        {
+            "id": "345",
+            "word": "introduce",
+            "mean": "~를 소개하다",
+            "speak": "인트로듀스"
+        },
+        {
+            "id": "346",
+            "word": "island",
+            "mean": "섬",
+            "speak": "아일랜드"
+        },
+        {
+            "id": "347",
+            "word": "it",
+            "mean": "그것",
+            "speak": "잇"
+        },
+        {
+            "id": "348",
+            "word": "jet",
+            "mean": "제트기",
+            "speak": "젯"
+        },
+        {
+            "id": "349",
+            "word": "job",
+            "mean": "일, 직업",
+            "speak": "잡"
+        },
+        {
+            "id": "350",
+            "word": "join",
+            "mean": "~참가하다",
+            "speak": "조인"
+        },
+        {
+            "id": "351",
+            "word": "juice",
+            "mean": "주스",
+            "speak": "쥬스"
+        },
+        {
+            "id": "352",
+            "word": "jump",
+            "mean": "뛰다, 뛰어오르다",
+            "speak": "점프"
+        },
+        {
+            "id": "353",
+            "word": "jungle",
+            "mean": "밀림, 정글",
+            "speak": "정글"
+        },
+        {
+            "id": "354",
+            "word": "just",
+            "mean": "바로, 금방, 조금 전에",
+            "speak": "저스트"
+        },
+        {
+            "id": "355",
+            "word": "keep",
+            "mean": "~을 지니다, 가지다",
+            "speak": "킵"
+        },
+        {
+            "id": "356",
+            "word": "key",
+            "mean": "열쇠",
+            "speak": "키"
+        },
+        {
+            "id": "357",
+            "word": "kick",
+            "mean": "차다",
+            "speak": "킥"
+        },
+        {
+            "id": "358",
+            "word": "kid",
+            "mean": "어린아이",
+            "speak": "키드"
+        },
+        {
+            "id": "359",
+            "word": "kill",
+            "mean": "죽이다",
+            "speak": "킬"
+        },
+        {
+            "id": "360",
+            "word": "kind",
+            "mean": "종류, 친절한",
+            "speak": "카인드"
+        },
+        {
+            "id": "361",
+            "word": "king",
+            "mean": "왕, 임금",
+            "speak": "킹"
+        },
+        {
+            "id": "362",
+            "word": "kitchen",
+            "mean": "부엌",
+            "speak": "키친"
+        },
+        {
+            "id": "363",
+            "word": "knee",
+            "mean": "무릎",
+            "speak": "니"
+        },
+        {
+            "id": "364",
+            "word": "knife",
+            "mean": "칼",
+            "speak": "나이프"
+        },
+        {
+            "id": "365",
+            "word": "knock",
+            "mean": "(문을)두드리다, 노크하다",
+            "speak": "노크"
+        },
+        {
+            "id": "366",
+            "word": "know",
+            "mean": "~를 알다",
+            "speak": "노우"
+        },
+        {
+            "id": "367",
+            "word": "lady",
+            "mean": "숙녀, 귀부인",
+            "speak": "레이디"
+        },
+        {
+            "id": "368",
+            "word": "lake",
+            "mean": "호수",
+            "speak": "레이크"
+        },
+        {
+            "id": "369",
+            "word": "lamp",
+            "mean": "등, 램프",
+            "speak": "램프"
+        },
+        {
+            "id": "370",
+            "word": "land",
+            "mean": "육지, 땅",
+            "speak": "랜드"
+        },
+        {
+            "id": "371",
+            "word": "large",
+            "mean": "큰, 커다란",
+            "speak": "라지"
+        },
+        {
+            "id": "372",
+            "word": "last",
+            "mean": "마지막의, 지난",
+            "speak": "라스트"
+        },
+        {
+            "id": "373",
+            "word": "late",
+            "mean": "늦은",
+            "speak": "레이트"
+        },
+        {
+            "id": "374",
+            "word": "laugh",
+            "mean": "웃다",
+            "speak": "러프"
+        },
+        {
+            "id": "375",
+            "word": "lead",
+            "mean": "이끌다, 안내하다",
+            "speak": "리드"
+        },
+        {
+            "id": "376",
+            "word": "leaf",
+            "mean": "나뭇잎, 잎사귀",
+            "speak": "맆"
+        },
+        {
+            "id": "377",
+            "word": "learn",
+            "mean": "~을 배우다, 익히다",
+            "speak": "런"
+        },
+        {
+            "id": "378",
+            "word": "leave",
+            "mean": "떠나다, 작별하다",
+            "speak": "리브"
+        },
+        {
+            "id": "379",
+            "word": "left",
+            "mean": "왼쪽",
+            "speak": "레프트"
+        },
+        {
+            "id": "380",
+            "word": "leg",
+            "mean": "다리",
+            "speak": "레그"
+        },
+        {
+            "id": "381",
+            "word": "lesson",
+            "mean": "(교과서) 과, 수업",
+            "speak": "레슨"
+        },
+        {
+            "id": "382",
+            "word": "let",
+            "mean": "~하게하다, ~시키다",
+            "speak": "렛"
+        },
+        {
+            "id": "383",
+            "word": "letter",
+            "mean": "글자, 편지",
+            "speak": "레터"
+        },
+        {
+            "id": "384",
+            "word": "library",
+            "mean": "도서관",
+            "speak": "라이브러리"
+        },
+        {
+            "id": "385",
+            "word": "lie",
+            "mean": "거짓말, 눕다",
+            "speak": "라이"
+        },
+        {
+            "id": "386",
+            "word": "light",
+            "mean": "빛, 가벼운",
+            "speak": "라이트"
+        },
+        {
+            "id": "387",
+            "word": "like",
+            "mean": "좋아하다, ~와 같은",
+            "speak": "라이크"
+        },
+        {
+            "id": "388",
+            "word": "line",
+            "mean": "선, 줄",
+            "speak": "라인"
+        },
+        {
+            "id": "389",
+            "word": "lion",
+            "mean": "사자",
+            "speak": "라이온"
+        },
+        {
+            "id": "390",
+            "word": "lip",
+            "mean": "입술",
+            "speak": "립"
+        },
+        {
+            "id": "391",
+            "word": "list",
+            "mean": "표, 목록",
+            "speak": "리스트"
+        },
+        {
+            "id": "392",
+            "word": "listen",
+            "mean": "듣다, 귀를 기울이다",
+            "speak": "리슨"
+        },
+        {
+            "id": "393",
+            "word": "long",
+            "mean": "(물건의 길이가)긴, 오랫동안",
+            "speak": "롱"
+        },
+        {
+            "id": "394",
+            "word": "look",
+            "mean": "찾다, 보다, 바라보다",
+            "speak": "룩"
+        },
+        {
+            "id": "395",
+            "word": "lose",
+            "mean": "잃다, 지다, 패배하다",
+            "speak": "로즈"
+        },
+        {
+            "id": "396",
+            "word": "lot",
+            "mean": "많음, 다량",
+            "speak": "랏"
+        },
+        {
+            "id": "397",
+            "word": "loud",
+            "mean": "소리가 큰, 시끄러운",
+            "speak": "라우드"
+        },
+        {
+            "id": "398",
+            "word": "love",
+            "mean": "사랑하다, 아주 좋아하다, 사랑",
+            "speak": "러브"
+        },
+        {
+            "id": "399",
+            "word": "low",
+            "mean": "낮은",
+            "speak": "로우"
+        },
+        {
+            "id": "400",
+            "word": "luck",
+            "mean": "운, 행운",
+            "speak": "럭"
+        },
+        {
+            "id": "401",
+            "word": "lunch",
+            "mean": "점심",
+            "speak": "런치"
+        },
+        {
+            "id": "402",
+            "word": "make",
+            "mean": "~을 만들다",
+            "speak": "메이크"
+        },
+        {
+            "id": "403",
+            "word": "man",
+            "mean": "남자, 사람, 인간",
+            "speak": "맨"
+        },
+        {
+            "id": "404",
+            "word": "many",
+            "mean": "많은, 다수의",
+            "speak": "매니"
+        },
+        {
+            "id": "405",
+            "word": "map",
+            "mean": "지도",
+            "speak": "맵"
+        },
+        {
+            "id": "406",
+            "word": "march",
+            "mean": "행진하다",
+            "speak": "마치"
+        },
+        {
+            "id": "407",
+            "word": "market",
+            "mean": "시장",
+            "speak": "마켓"
+        },
+        {
+            "id": "408",
+            "word": "marry",
+            "mean": "결혼하다",
+            "speak": "메리"
+        },
+        {
+            "id": "409",
+            "word": "matter",
+            "mean": "일, 문제, 중요한",
+            "speak": "매럴"
+        },
+        {
+            "id": "410",
+            "word": "may",
+            "mean": " ~일지도 모른다(추측)",
+            "speak": "메이"
+        },
+        {
+            "id": "411",
+            "word": "meat",
+            "mean": "고기",
+            "speak": "미트"
+        },
+        {
+            "id": "412",
+            "word": "medal",
+            "mean": "메달, 훈장",
+            "speak": "메달"
+        },
+        {
+            "id": "413",
+            "word": "meet",
+            "mean": "만나다",
+            "speak": "미트"
+        },
+        {
+            "id": "414",
+            "word": "melon",
+            "mean": "멜론, 참외",
+            "speak": "멜론"
+        },
+        {
+            "id": "415",
+            "word": "meter",
+            "mean": "(길이 측정 단위) 미터",
+            "speak": "미터"
+        },
+        {
+            "id": "416",
+            "word": "middle",
+            "mean": "중간, 중앙",
+            "speak": "미들"
+        },
+        {
+            "id": "417",
+            "word": "milk",
+            "mean": "우유",
+            "speak": "밀크"
+        },
+        {
+            "id": "418",
+            "word": "million",
+            "mean": "백만",
+            "speak": "밀리온"
+        },
+        {
+            "id": "419",
+            "word": "minute",
+            "mean": "(시간의)분, 잠깐",
+            "speak": "미닛트"
+        },
+        {
+            "id": "420",
+            "word": "mirror",
+            "mean": "거울",
+            "speak": "미러"
+        },
+        {
+            "id": "421",
+            "word": "Miss",
+            "mean": "~양",
+            "speak": "미스"
+        },
+        {
+            "id": "422",
+            "word": "model",
+            "mean": "모텔",
+            "speak": "모델"
+        },
+        {
+            "id": "423",
+            "word": "mom",
+            "mean": "엄마",
+            "speak": "맘"
+        },
+        {
+            "id": "424",
+            "word": "money",
+            "mean": "돈",
+            "speak": "머니"
+        },
+        {
+            "id": "425",
+            "word": "monkey",
+            "mean": "원숭이",
+            "speak": "멍키"
+        },
+        {
+            "id": "426",
+            "word": "month",
+            "mean": "달, 개월",
+            "speak": "먼스"
+        },
+        {
+            "id": "427",
+            "word": "moon",
+            "mean": "달",
+            "speak": "문"
+        },
+        {
+            "id": "428",
+            "word": "morning",
+            "mean": "아침, 오전",
+            "speak": "모닝"
+        },
+        {
+            "id": "429",
+            "word": "mother",
+            "mean": "어머니",
+            "speak": "머더"
+        },
+        {
+            "id": "430",
+            "word": "mountain",
+            "mean": "산",
+            "speak": "마운틴"
+        },
+        {
+            "id": "431",
+            "word": "mouth",
+            "mean": "입",
+            "speak": "마우스"
+        },
+        {
+            "id": "432",
+            "word": "move",
+            "mean": "움직이다",
+            "speak": "무브"
+        },
+        {
+            "id": "433",
+            "word": "movie",
+            "mean": "영화",
+            "speak": "무비"
+        },
+        {
+            "id": "434",
+            "word": "Mr",
+            "mean": "~씨, ~선생님",
+            "speak": "미스터"
+        },
+        {
+            "id": "435",
+            "word": "Mrs",
+            "mean": "~씨 부인",
+            "speak": "미세스"
+        },
+        {
+            "id": "436",
+            "word": "much",
+            "mean": "많은",
+            "speak": "머치"
+        },
+        {
+            "id": "437",
+            "word": "music",
+            "mean": "음악",
+            "speak": "뮤직"
+        },
+        {
+            "id": "438",
+            "word": "must",
+            "mean": "~해야 한다",
+            "speak": "머스트"
+        },
+        {
+            "id": "439",
+            "word": "neck",
+            "mean": "목",
+            "speak": "넥"
+        },
+        {
+            "id": "440",
+            "word": "need",
+            "mean": "~가 필요하다",
+            "speak": "니드"
+        },
+        {
+            "id": "441",
+            "word": "never",
+            "mean": "결코~않다",
+            "speak": "네버"
+        },
+        {
+            "id": "442",
+            "word": "new",
+            "mean": "새로운",
+            "speak": "뉴"
+        },
+        {
+            "id": "443",
+            "word": "news",
+            "mean": "뉴스, 소식",
+            "speak": "뉴스"
+        },
+        {
+            "id": "444",
+            "word": "next",
+            "mean": "다음",
+            "speak": "넥스트"
+        },
+        {
+            "id": "445",
+            "word": "nice",
+            "mean": "좋은, 멋진",
+            "speak": "나이스"
+        },
+        {
+            "id": "446",
+            "word": "night",
+            "mean": "밤",
+            "speak": "나이트"
+        },
+        {
+            "id": "447",
+            "word": "no",
+            "mean": "(대답에서) 아니오",
+            "speak": "노"
+        },
+        {
+            "id": "448",
+            "word": "noise",
+            "mean": "소음",
+            "speak": "노이즈"
+        },
+        {
+            "id": "449",
+            "word": "north",
+            "mean": "북쪽",
+            "speak": "노스"
+        },
+        {
+            "id": "450",
+            "word": "nose",
+            "mean": "코",
+            "speak": "노우즈"
+        },
+        {
+            "id": "451",
+            "word": "not",
+            "mean": "~아니다",
+            "speak": "낫"
+        },
+        {
+            "id": "452",
+            "word": "note",
+            "mean": "짧은 기록, 메모",
+            "speak": "낫"
+        },
+        {
+            "id": "453",
+            "word": "now",
+            "mean": "지금, 현재",
+            "speak": "나우"
+        },
+        {
+            "id": "454",
+            "word": "number",
+            "mean": "수, 숫자",
+            "speak": "넘버"
+        },
+        {
+            "id": "455",
+            "word": "nurse",
+            "mean": "간호사",
+            "speak": "널스"
+        },
+        {
+            "id": "456",
+            "word": "o'clock",
+            "mean": "~시",
+            "speak": "어 클락"
+        },
+        {
+            "id": "457",
+            "word": "of",
+            "mean": "~의",
+            "speak": "오브"
+        },
+        {
+            "id": "458",
+            "word": "off",
+            "mean": "(옷.신발 등을) 벗고, 멀리, 끄다",
+            "speak": "오프"
+        },
+        {
+            "id": "459",
+            "word": "office",
+            "mean": "사무실",
+            "speak": "오피스"
+        },
+        {
+            "id": "460",
+            "word": "often",
+            "mean": "흔히, 자주",
+            "speak": "오픈"
+        },
+        {
+            "id": "461",
+            "word": "offense",
+            "mean": "공격",
+            "speak": "오펜스"
+        },
+        {
+            "id": "462",
+            "word": "offer",
+            "mean": "제의하다",
+            "speak": "오퍼"
+        },
+        {
+            "id": "463",
+            "word": "oh",
+            "mean": "아, 아이구",
+            "speak": "오"
+        },
+        {
+            "id": "464",
+            "word": "oil",
+            "mean": "기름",
+            "speak": "오일"
+        },
+        {
+            "id": "465",
+            "word": "ok",
+            "mean": "좋아요, 됐어요",
+            "speak": "오케이"
+        },
+        {
+            "id": "466",
+            "word": "old",
+            "mean": "낡은, 늙은",
+            "speak": "올드"
+        },
+        {
+            "id": "467",
+            "word": "on",
+            "mean": "~위에",
+            "speak": "온"
+        },
+        {
+            "id": "468",
+            "word": "once",
+            "mean": "이전에, 옛날에, 한번",
+            "speak": "온스"
+        },
+        {
+            "id": "469",
+            "word": "open",
+            "mean": "~을 열다, 열려 있는",
+            "speak": "오픈"
+        },
+        {
+            "id": "470",
+            "word": "or",
+            "mean": "또는, 혹은",
+            "speak": "오어"
+        },
+        {
+            "id": "471",
+            "word": "orange",
+            "mean": "오렌지",
+            "speak": "오렌지"
+        },
+        {
+            "id": "472",
+            "word": "other",
+            "mean": "다른, 그 밖의",
+            "speak": "오더"
+        },
+        {
+            "id": "473",
+            "word": "out",
+            "mean": "밖에, 밖으로",
+            "speak": "아웃"
+        },
+        {
+            "id": "474",
+            "word": "over",
+            "mean": "~위에, 끝난",
+            "speak": "오버"
+        },
+        {
+            "id": "475",
+            "word": "page",
+            "mean": "페이지, 쪽",
+            "speak": "페이지"
+        },
+        {
+            "id": "476",
+            "word": "paint",
+            "mean": "페인트,색칠하다",
+            "speak": "페인트"
+        },
+        {
+            "id": "477",
+            "word": "pair",
+            "mean": "한 쌍, 짝",
+            "speak": "페어"
+        },
+        {
+            "id": "478",
+            "word": "pants",
+            "mean": "바지",
+            "speak": "팬츠"
+        },
+        {
+            "id": "479",
+            "word": "paper",
+            "mean": "종이, 신문",
+            "speak": "페이퍼"
+        },
+        {
+            "id": "480",
+            "word": "pardon",
+            "mean": "용서, 실례",
+            "speak": "파아든"
+        },
+        {
+            "id": "481",
+            "word": "parent",
+            "mean": "부모",
+            "speak": "패런츠"
+        },
+        {
+            "id": "482",
+            "word": "park",
+            "mean": "공원, 유원지",
+            "speak": "파크"
+        },
+        {
+            "id": "483",
+            "word": "party",
+            "mean": "파티, 모임",
+            "speak": "파티"
+        },
+        {
+            "id": "484",
+            "word": "pass",
+            "mean": "(시간이) 지나다, 합격하다",
+            "speak": "패스"
+        },
+        {
+            "id": "485",
+            "word": "pay",
+            "mean": "(돈을) 지불하다",
+            "speak": "페이"
+        },
+        {
+            "id": "486",
+            "word": "peace",
+            "mean": "평화",
+            "speak": "피스"
+        },
+        {
+            "id": "487",
+            "word": "pear",
+            "mean": "배",
+            "speak": "피어"
+        },
+        {
+            "id": "488",
+            "word": "pen",
+            "mean": "펜",
+            "speak": "펜"
+        },
+        {
+            "id": "489",
+            "word": "pencil",
+            "mean": "연필",
+            "speak": "펜슬"
+        },
+        {
+            "id": "490",
+            "word": "people",
+            "mean": "사람들",
+            "speak": "피플"
+        },
+        {
+            "id": "491",
+            "word": "piano",
+            "mean": "피아노",
+            "speak": "피아노"
+        },
+        {
+            "id": "492",
+            "word": "pick",
+            "mean": "줍다",
+            "speak": "피크"
+        },
+        {
+            "id": "493",
+            "word": "picnic",
+            "mean": "소풍, 피크닉",
+            "speak": "소풍"
+        },
+        {
+            "id": "494",
+            "word": "picture",
+            "mean": "그림, 사진",
+            "speak": "픽쳐"
+        },
+        {
+            "id": "495",
+            "word": "piece",
+            "mean": "단편, 한 조각",
+            "speak": "피스"
+        },
+        {
+            "id": "496",
+            "word": "pig",
+            "mean": "돼지",
+            "speak": "피그"
+        },
+        {
+            "id": "497",
+            "word": "pilot",
+            "mean": "조종사",
+            "speak": "파일럿"
+        },
+        {
+            "id": "498",
+            "word": "pin",
+            "mean": "핀",
+            "speak": "핀"
+        },
+        {
+            "id": "499",
+            "word": "pine",
+            "mean": "솔, 소나무",
+            "speak": "파인"
+        },
+        {
+            "id": "500",
+            "word": "pink",
+            "mean": "분홍색",
+            "speak": "핑크"
+        },
+        {
+            "id": "501",
+            "word": "pipe",
+            "mean": "관, 파이프",
+            "speak": "파이프"
+        },
+        {
+            "id": "502",
+            "word": "place",
+            "mean": "장소, 곳",
+            "speak": "플레이스"
+        },
+        {
+            "id": "503",
+            "word": "plan",
+            "mean": "계획",
+            "speak": "플랜"
+        },
+        {
+            "id": "504",
+            "word": "plane",
+            "mean": "비행기",
+            "speak": "플레인"
+        },
+        {
+            "id": "505",
+            "word": "plant",
+            "mean": "식물, ~을 심다",
+            "speak": "플랜트"
+        },
+        {
+            "id": "506",
+            "word": "play",
+            "mean": "놀다, 연주하다",
+            "speak": "플레이"
+        },
+        {
+            "id": "507",
+            "word": "please",
+            "mean": "제발",
+            "speak": "플리즈"
+        },
+        {
+            "id": "508",
+            "word": "pocket",
+            "mean": "호주머니",
+            "speak": "포켓"
+        },
+        {
+            "id": "509",
+            "word": "point",
+            "mean": "(뾰족한)끝, ~를 가리키다",
+            "speak": "포인트"
+        },
+        {
+            "id": "510",
+            "word": "police",
+            "mean": "경찰",
+            "speak": "폴리스"
+        },
+        {
+            "id": "511",
+            "word": "pool",
+            "mean": "수영장, 웅덩이",
+            "speak": "풀"
+        },
+        {
+            "id": "512",
+            "word": "poor",
+            "mean": "가난한",
+            "speak": "푸어"
+        },
+        {
+            "id": "513",
+            "word": "post",
+            "mean": "우편물을 부치다, 우편물",
+            "speak": "포스트"
+        },
+        {
+            "id": "514",
+            "word": "poster",
+            "mean": "포스터",
+            "speak": "포스터"
+        },
+        {
+            "id": "515",
+            "word": "potato",
+            "mean": "감자",
+            "speak": "포테이토"
+        },
+        {
+            "id": "516",
+            "word": "practice",
+            "mean": "연습, 연습하다",
+            "speak": "프랙티스"
+        },
+        {
+            "id": "517",
+            "word": "present",
+            "mean": "현재, 참석한, 출석한, 선물",
+            "speak": "프레젠트"
+        },
+        {
+            "id": "518",
+            "word": "pretty",
+            "mean": "예쁜, 귀여운",
+            "speak": "프리티"
+        },
+        {
+            "id": "519",
+            "word": "print",
+            "mean": "인쇄, 인쇄하다, 발행하다",
+            "speak": "프린트"
+        },
+        {
+            "id": "520",
+            "word": "problem",
+            "mean": "문제",
+            "speak": "프러브럼"
+        },
+        {
+            "id": "521",
+            "word": "pull",
+            "mean": "~을 끌다, 잡아당기다",
+            "speak": "풀"
+        },
+        {
+            "id": "522",
+            "word": "push",
+            "mean": "~을 밀다",
+            "speak": "푸쉬"
+        },
+        {
+            "id": "523",
+            "word": "put",
+            "mean": "~을 놓다, 두다",
+            "speak": "풋"
+        },
+        {
+            "id": "524",
+            "word": "queen",
+            "mean": "왕비, 여왕",
+            "speak": "퀸"
+        },
+        {
+            "id": "525",
+            "word": "question",
+            "mean": "물음, 질문",
+            "speak": "퀘스쳔"
+        },
+        {
+            "id": "526",
+            "word": "quick",
+            "mean": "빠른",
+            "speak": "퀵"
+        },
+        {
+            "id": "527",
+            "word": "quiet",
+            "mean": "조용한, 고요한",
+            "speak": "콰이어트"
+        },
+        {
+            "id": "528",
+            "word": "radio",
+            "mean": "라디오",
+            "speak": "라디오"
+        },
+        {
+            "id": "529",
+            "word": "rain",
+            "mean": "비, 비가 오다",
+            "speak": "레인"
+        },
+        {
+            "id": "530",
+            "word": "rainbow ",
+            "mean": "무지개",
+            "speak": "레인보우"
+        },
+        {
+            "id": "531",
+            "word": "read",
+            "mean": "읽다",
+            "speak": "리드"
+        },
+        {
+            "id": "532",
+            "word": "ready",
+            "mean": "준비된",
+            "speak": "레디"
+        },
+        {
+            "id": "533",
+            "word": "real",
+            "mean": "진짜의, 정말의",
+            "speak": "리얼"
+        },
+        {
+            "id": "534",
+            "word": "record",
+            "mean": "기록, 기록하다",
+            "speak": "레코드"
+        },
+        {
+            "id": "535",
+            "word": "red",
+            "mean": "빨간, 붉은색의",
+            "speak": "레드"
+        },
+        {
+            "id": "536",
+            "word": "remember",
+            "mean": "기억하다",
+            "speak": "리맴버"
+        },
+        {
+            "id": "537",
+            "word": "repeat",
+            "mean": "되풀이하다, 반복하다",
+            "speak": "리피트"
+        },
+        {
+            "id": "538",
+            "word": "rest",
+            "mean": "휴식, 잠, 쉬다, 휴식하다",
+            "speak": "레스트"
+        },
+        {
+            "id": "539",
+            "word": "restaurant",
+            "mean": "식당, 음식점",
+            "speak": "레스토랑"
+        },
+        {
+            "id": "540",
+            "word": "return",
+            "mean": "~로 돌아가다, 반납하다",
+            "speak": "리턴"
+        },
+        {
+            "id": "541",
+            "word": "ribbon",
+            "mean": "리본, 장식용 띠",
+            "speak": "리본"
+        },
+        {
+            "id": "542",
+            "word": "rice",
+            "mean": "쌀, 밥",
+            "speak": "라이스"
+        },
+        {
+            "id": "543",
+            "word": "rich",
+            "mean": "돈 많은, 부자의",
+            "speak": "리치"
+        },
+        {
+            "id": "544",
+            "word": "ride",
+            "mean": "타다",
+            "speak": "라이드"
+        },
+        {
+            "id": "545",
+            "word": "right",
+            "mean": "오른쪽, 옳은",
+            "speak": "라이트"
+        },
+        {
+            "id": "546",
+            "word": "ring",
+            "mean": "반지, (종.벨이)울리다",
+            "speak": "링"
+        },
+        {
+            "id": "547",
+            "word": "river",
+            "mean": "강",
+            "speak": "리버"
+        },
+        {
+            "id": "548",
+            "word": "road",
+            "mean": "길, 도로",
+            "speak": "로드"
+        },
+        {
+            "id": "549",
+            "word": "robot",
+            "mean": "로봇",
+            "speak": "로봇"
+        },
+        {
+            "id": "550",
+            "word": "rock",
+            "mean": "바위, 작은 돌",
+            "speak": "락"
+        },
+        {
+            "id": "551",
+            "word": "rocket",
+            "mean": "로켓",
+            "speak": "로켓"
+        },
+        {
+            "id": "552",
+            "word": "roll",
+            "mean": "~를 굴리다, 구르다",
+            "speak": "롤"
+        },
+        {
+            "id": "553",
+            "word": "roof",
+            "mean": "지붕",
+            "speak": "루프"
+        },
+        {
+            "id": "554",
+            "word": "room",
+            "mean": "방",
+            "speak": "룸"
+        },
+        {
+            "id": "555",
+            "word": "rose",
+            "mean": "장미",
+            "speak": "로즈"
+        },
+        {
+            "id": "556",
+            "word": "round",
+            "mean": "둥근, 원형의",
+            "speak": "라운드"
+        },
+        {
+            "id": "557",
+            "word": "ruler",
+            "mean": "자",
+            "speak": "룰러"
+        },
+        {
+            "id": "558",
+            "word": "run",
+            "mean": "달리다",
+            "speak": "런"
+        },
+        {
+            "id": "559",
+            "word": "same",
+            "mean": "똑같은",
+            "speak": "쎄임"
+        },
+        {
+            "id": "560",
+            "word": "sand",
+            "mean": "모래",
+            "speak": "샌드"
+        },
+        {
+            "id": "561",
+            "word": "say",
+            "mean": "말하다",
+            "speak": "세이"
+        },
+        {
+            "id": "562",
+            "word": "school",
+            "mean": "학교",
+            "speak": "스쿨"
+        },
+        {
+            "id": "563",
+            "word": "scissors",
+            "mean": "가위",
+            "speak": "시저스"
+        },
+        {
+            "id": "564",
+            "word": "score",
+            "mean": "점수, 득점",
+            "speak": "스코어"
+        },
+        {
+            "id": "565",
+            "word": "sea",
+            "mean": "바다",
+            "speak": "씨"
+        },
+        {
+            "id": "566",
+            "word": "season",
+            "mean": "계절",
+            "speak": "시즌"
+        },
+        {
+            "id": "567",
+            "word": "seat",
+            "mean": "자리, 좌석",
+            "speak": "씨트"
+        },
+        {
+            "id": "568",
+            "word": "see",
+            "mean": "보다",
+            "speak": "씨"
+        },
+        {
+            "id": "569",
+            "word": "sell",
+            "mean": "~을 팔다",
+            "speak": "셀"
+        },
+        {
+            "id": "570",
+            "word": "send",
+            "mean": "~을 보내다.",
+            "speak": "센드"
+        },
+        {
+            "id": "571",
+            "word": "service",
+            "mean": "서비스",
+            "speak": "서비스"
+        },
+        {
+            "id": "572",
+            "word": "set",
+            "mean": "~을 두다, 놓다",
+            "speak": "셋"
+        },
+        {
+            "id": "573",
+            "word": "shall",
+            "mean": "~하겠다, ~할까요",
+            "speak": "쉘"
+        },
+        {
+            "id": "574",
+            "word": "shape",
+            "mean": "모양",
+            "speak": "쉐이프"
+        },
+        {
+            "id": "575",
+            "word": "she",
+            "mean": "그녀는, 그녀가",
+            "speak": "쉬"
+        },
+        {
+            "id": "576",
+            "word": "sheep",
+            "mean": "양",
+            "speak": "쉬프"
+        },
+        {
+            "id": "577",
+            "word": "sheet",
+            "mean": "종이, (침대의)시트",
+            "speak": "시트"
+        },
+        {
+            "id": "578",
+            "word": "ship",
+            "mean": "배",
+            "speak": "쉽"
+        },
+        {
+            "id": "579",
+            "word": "shirt",
+            "mean": "셔츠",
+            "speak": "셔츠"
+        },
+        {
+            "id": "580",
+            "word": "shoe",
+            "mean": "신발",
+            "speak": "슈우즈"
+        },
+        {
+            "id": "581",
+            "word": "shoot",
+            "mean": "쏘다, 발사하다",
+            "speak": "슛"
+        },
+        {
+            "id": "582",
+            "word": "shop",
+            "mean": "상점, 가계",
+            "speak": "샵"
+        },
+        {
+            "id": "583",
+            "word": "short",
+            "mean": "짧은, 작은",
+            "speak": "숄트"
+        },
+        {
+            "id": "584",
+            "word": "shoulder",
+            "mean": "어깨",
+            "speak": "숄더"
+        },
+        {
+            "id": "585",
+            "word": "shout",
+            "mean": "외치다, 소리치다",
+            "speak": "샤우트"
+        },
+        {
+            "id": "586",
+            "word": "show",
+            "mean": "보여주다, 구경거리, 쇼, 전시회",
+            "speak": "쇼"
+        },
+        {
+            "id": "587",
+            "word": "shower",
+            "mean": "소나기, 샤워, (일종의)파티",
+            "speak": "샤워"
+        },
+        {
+            "id": "588",
+            "word": "shut",
+            "mean": "~을 닫다, 잠그다",
+            "speak": "셧"
+        },
+        {
+            "id": "589",
+            "word": "sick",
+            "mean": "병든, 병난",
+            "speak": "씩"
+        },
+        {
+            "id": "590",
+            "word": "side",
+            "mean": "옆, 측면, 쪽",
+            "speak": "사이드"
+        },
+        {
+            "id": "591",
+            "word": "sight",
+            "mean": "시력, 언뜻 보기, 풍경, 광경",
+            "speak": "싸이트"
+        },
+        {
+            "id": "592",
+            "word": "sign",
+            "mean": "표지, 기호, 표시",
+            "speak": "사인"
+        },
+        {
+            "id": "593",
+            "word": "silver",
+            "mean": "은색의, 은",
+            "speak": "실버"
+        },
+        {
+            "id": "594",
+            "word": "sing",
+            "mean": "노래하다",
+            "speak": "씽"
+        },
+        {
+            "id": "595",
+            "word": "sir",
+            "mean": "님, 귀하",
+            "speak": "써"
+        },
+        {
+            "id": "596",
+            "word": "sister",
+            "mean": "여동생, 누나, 언니",
+            "speak": "시스터"
+        },
+        {
+            "id": "597",
+            "word": "sit",
+            "mean": "앉다",
+            "speak": "앁"
+        },
+        {
+            "id": "598",
+            "word": "size",
+            "mean": "크기, 치수",
+            "speak": "사이즈"
+        },
+        {
+            "id": "599",
+            "word": "skate",
+            "mean": "스케이트, 스케이트 타다",
+            "speak": "스케이트"
+        },
+        {
+            "id": "600",
+            "word": "skirt",
+            "mean": "치마, 스커트",
+            "speak": "스커트"
+        },
+        {
+            "id": "601",
+            "word": "sky",
+            "mean": "하늘",
+            "speak": "스카이"
+        },
+        {
+            "id": "602",
+            "word": "sleep",
+            "mean": "잠, 잠을 자다",
+            "speak": "슬립"
+        },
+        {
+            "id": "603",
+            "word": "slide",
+            "mean": "미끄러지다",
+            "speak": "슬라이드"
+        },
+        {
+            "id": "604",
+            "word": "slow",
+            "mean": "느린",
+            "speak": "슬로우"
+        },
+        {
+            "id": "605",
+            "word": "smell",
+            "mean": "냄새",
+            "speak": "스멜"
+        },
+        {
+            "id": "606",
+            "word": "smile",
+            "mean": "미소",
+            "speak": "스마일"
+        },
+        {
+            "id": "607",
+            "word": "smoke",
+            "mean": "연기",
+            "speak": "스모크"
+        },
+        {
+            "id": "608",
+            "word": "snow",
+            "mean": "눈, 눈이 내리다",
+            "speak": "스노우"
+        },
+        {
+            "id": "609",
+            "word": "so",
+            "mean": "그렇게",
+            "speak": "쏘"
+        },
+        {
+            "id": "610",
+            "word": "soap",
+            "mean": "비누",
+            "speak": "소프"
+        },
+        {
+            "id": "611",
+            "word": "soccer",
+            "mean": "축구",
+            "speak": "싸커"
+        },
+        {
+            "id": "612",
+            "word": "sock",
+            "mean": "양말",
+            "speak": "삭"
+        },
+        {
+            "id": "613",
+            "word": "soft",
+            "mean": "부드러운",
+            "speak": "소프트"
+        },
+        {
+            "id": "614",
+            "word": "some",
+            "mean": "얼마간의, 약간의, 대략, ~쯤",
+            "speak": "썸"
+        },
+        {
+            "id": "615",
+            "word": "son",
+            "mean": "아들",
+            "speak": "썬"
+        },
+        {
+            "id": "616",
+            "word": "song",
+            "mean": "노래",
+            "speak": "송"
+        },
+        {
+            "id": "617",
+            "word": "soon",
+            "mean": "곧, 머지않아",
+            "speak": "순"
+        },
+        {
+            "id": "618",
+            "word": "sorry",
+            "mean": "가엾은, 미안한, 죄송한",
+            "speak": "쏘리"
+        },
+        {
+            "id": "619",
+            "word": "sound",
+            "mean": "소리, 음",
+            "speak": "사운드"
+        },
+        {
+            "id": "620",
+            "word": "soup",
+            "mean": "수프",
+            "speak": "수프"
+        },
+        {
+            "id": "621",
+            "word": "south",
+            "mean": "남쪽",
+            "speak": "사우스"
+        },
+        {
+            "id": "622",
+            "word": "space",
+            "mean": "우주, 공간, 틈",
+            "speak": "스페이스"
+        },
+        {
+            "id": "623",
+            "word": "speak",
+            "mean": "말하다",
+            "speak": "스피크"
+        },
+        {
+            "id": "624",
+            "word": "speed",
+            "mean": "속도, 속력",
+            "speak": "스피드"
+        },
+        {
+            "id": "625",
+            "word": "spell",
+            "mean": "(철자를) 쓰다",
+            "speak": "스펠"
+        },
+        {
+            "id": "626",
+            "word": "spend",
+            "mean": "(돈.시간을) 쓰다, 소비하다",
+            "speak": "스펜드"
+        },
+        {
+            "id": "627",
+            "word": "spoon",
+            "mean": "숟가락",
+            "speak": "스푼"
+        },
+        {
+            "id": "628",
+            "word": "sport",
+            "mean": "운동",
+            "speak": "스포츠"
+        },
+        {
+            "id": "629",
+            "word": "spring",
+            "mean": "봄",
+            "speak": "스프링"
+        },
+        {
+            "id": "630",
+            "word": "square",
+            "mean": "정사각형, (숫자의) 제곱, 광장",
+            "speak": "스퀘어"
+        },
+        {
+            "id": "631",
+            "word": "stair",
+            "mean": "계단",
+            "speak": "스테어"
+        },
+        {
+            "id": "632",
+            "word": "stamp",
+            "mean": "우표",
+            "speak": "스탬프"
+        },
+        {
+            "id": "633",
+            "word": "stand",
+            "mean": "서다, 참다, 견디다",
+            "speak": "스탠드"
+        },
+        {
+            "id": "634",
+            "word": "star",
+            "mean": "별, 인기인",
+            "speak": "스타"
+        },
+        {
+            "id": "635",
+            "word": "start",
+            "mean": "출발하다, 떠나다, 시작하다",
+            "speak": "스타트"
+        },
+        {
+            "id": "636",
+            "word": "station",
+            "mean": "정거장",
+            "speak": "스테이션"
+        },
+        {
+            "id": "637",
+            "word": "stay",
+            "mean": "남다, 머무르다",
+            "speak": "스테이"
+        },
+        {
+            "id": "638",
+            "word": "steam",
+            "mean": "증기",
+            "speak": "스팀"
+        },
+        {
+            "id": "639",
+            "word": "step",
+            "mean": "걸음, 스텝",
+            "speak": "스텝"
+        },
+        {
+            "id": "640",
+            "word": "stick",
+            "mean": "막대기",
+            "speak": "스틱"
+        },
+        {
+            "id": "641",
+            "word": "stone",
+            "mean": "돌",
+            "speak": "스톤"
+        },
+        {
+            "id": "642",
+            "word": "stop",
+            "mean": "멈추다, 정류장",
+            "speak": "스톱"
+        },
+        {
+            "id": "643",
+            "word": "store",
+            "mean": "가게, 상점",
+            "speak": "스토어"
+        },
+        {
+            "id": "644",
+            "word": "storm",
+            "mean": "폭풍우",
+            "speak": "스톰"
+        },
+        {
+            "id": "645",
+            "word": "story",
+            "mean": "이야기",
+            "speak": "스토리"
+        },
+        {
+            "id": "646",
+            "word": "stove",
+            "mean": "난로, 화덕",
+            "speak": "스토브"
+        },
+        {
+            "id": "647",
+            "word": "straight",
+            "mean": "곧은, 똑바른, 곧장",
+            "speak": "스트레이트"
+        },
+        {
+            "id": "648",
+            "word": "strange",
+            "mean": "이상한",
+            "speak": "스트레인지"
+        },
+        {
+            "id": "649",
+            "word": "strawberry",
+            "mean": "딸기",
+            "speak": "스트로벨리"
+        },
+        {
+            "id": "650",
+            "word": "street",
+            "mean": "길거리, 길",
+            "speak": "스트리트"
+        },
+        {
+            "id": "651",
+            "word": "strike",
+            "mean": "~을 치다, 때리다, 파업",
+            "speak": "스트라이크"
+        },
+        {
+            "id": "652",
+            "word": "strong",
+            "mean": "힘센, 강한, 단단한",
+            "speak": "스트롱"
+        },
+        {
+            "id": "653",
+            "word": "student",
+            "mean": "학생",
+            "speak": "스튜던트"
+        },
+        {
+            "id": "654",
+            "word": "study",
+            "mean": "공부하다, 조사하다, 관찰하다",
+            "speak": "스터디"
+        },
+        {
+            "id": "655",
+            "word": "stupid",
+            "mean": "어리석은, 바보 같은",
+            "speak": "스튜피드"
+        },
+        {
+            "id": "656",
+            "word": "subway",
+            "mean": "지하철",
+            "speak": "서브웨이"
+        },
+        {
+            "id": "657",
+            "word": "sugar",
+            "mean": "설탕",
+            "speak": "슈거"
+        },
+        {
+            "id": "658",
+            "word": "summer",
+            "mean": "여름",
+            "speak": "썸머"
+        },
+        {
+            "id": "659",
+            "word": "sun",
+            "mean": "태양, 해",
+            "speak": "썬"
+        },
+        {
+            "id": "660",
+            "word": "supermarket",
+            "mean": "슈퍼마켓",
+            "speak": "슈퍼마켓"
+        },
+        {
+            "id": "661",
+            "word": "supper",
+            "mean": "저녁식사",
+            "speak": "써퍼"
+        },
+        {
+            "id": "662",
+            "word": "sure",
+            "mean": "~을 확신하는",
+            "speak": "슈어"
+        },
+        {
+            "id": "663",
+            "word": "surprise",
+            "mean": "놀람, ~에 놀라다",
+            "speak": "서프라이즈"
+        },
+        {
+            "id": "664",
+            "word": "sweater",
+            "mean": "스웨터",
+            "speak": "스웨터"
+        },
+        {
+            "id": "665",
+            "word": "sweet",
+            "mean": "달콤한, 맛있는",
+            "speak": "스위트"
+        },
+        {
+            "id": "666",
+            "word": "swim",
+            "mean": "헤엄치다, 수영하다",
+            "speak": "스윔"
+        },
+        {
+            "id": "667",
+            "word": "swing",
+            "mean": "그네, 흔들리다",
+            "speak": "스윙"
+        },
+        {
+            "id": "668",
+            "word": "switch",
+            "mean": "스위치, ~을 바꾸다",
+            "speak": "스위치"
+        },
+        {
+            "id": "669",
+            "word": "table",
+            "mean": "식탁, 테이블, 표, 목록",
+            "speak": "테이블"
+        },
+        {
+            "id": "670",
+            "word": "take",
+            "mean": "가져가다, 데려가다, ~을 잡다",
+            "speak": "테이크"
+        },
+        {
+            "id": "671",
+            "word": "talk",
+            "mean": "말하다, 이야기하다",
+            "speak": "토크"
+        },
+        {
+            "id": "672",
+            "word": "tall",
+            "mean": "키가 큰",
+            "speak": "톨"
+        },
+        {
+            "id": "673",
+            "word": "tape",
+            "mean": "접착용 테이프, 녹음용 테이프",
+            "speak": "테이프"
+        },
+        {
+            "id": "674",
+            "word": "taste",
+            "mean": "~을 맛보다, 먹어보다, 맛",
+            "speak": "테이스트"
+        },
+        {
+            "id": "675",
+            "word": "taxi",
+            "mean": "택시",
+            "speak": "택시"
+        },
+        {
+            "id": "676",
+            "word": "tea",
+            "mean": "차, 홍차",
+            "speak": "티"
+        },
+        {
+            "id": "677",
+            "word": "teach",
+            "mean": "가르치다",
+            "speak": "티치"
+        },
+        {
+            "id": "678",
+            "word": "team",
+            "mean": "팀, 조",
+            "speak": "팀"
+        },
+        {
+            "id": "679",
+            "word": "telephone",
+            "mean": "전화기",
+            "speak": "텔레폰"
+        },
+        {
+            "id": "680",
+            "word": "television",
+            "mean": "텔레비전",
+            "speak": "텔레비젼"
+        },
+        {
+            "id": "681",
+            "word": "tell",
+            "mean": "말하다, 이야기하다",
+            "speak": "텔"
+        },
+        {
+            "id": "682",
+            "word": "temple",
+            "mean": "사원, 신전",
+            "speak": "템플"
+        },
+        {
+            "id": "683",
+            "word": "tennis",
+            "mean": "정구, 테니스",
+            "speak": "테니스"
+        },
+        {
+            "id": "684",
+            "word": "test",
+            "mean": "테스트, 시험",
+            "speak": "테스트"
+        },
+        {
+            "id": "685",
+            "word": "than",
+            "mean": "~보다",
+            "speak": "댄"
+        },
+        {
+            "id": "686",
+            "word": "thank",
+            "mean": "감사하다",
+            "speak": "땡크"
+        },
+        {
+            "id": "687",
+            "word": "that",
+            "mean": "저것, 그것",
+            "speak": "댓"
+        },
+        {
+            "id": "688",
+            "word": "the",
+            "mean": "그(유일한 사물.대상)",
+            "speak": "더"
+        },
+        {
+            "id": "689",
+            "word": "then",
+            "mean": "그때, 그 다음에",
+            "speak": "댄"
+        },
+        {
+            "id": "690",
+            "word": "there",
+            "mean": "그 곳에, 거기에,~이 있다",
+            "speak": "데어"
+        },
+        {
+            "id": "691",
+            "word": "they",
+            "mean": "그들, 그것들",
+            "speak": "데이"
+        },
+        {
+            "id": "692",
+            "word": "thick",
+            "mean": "두꺼운",
+            "speak": "띠크"
+        },
+        {
+            "id": "693",
+            "word": "thin",
+            "mean": "얇은, 가느다란, 마른",
+            "speak": "띤"
+        },
+        {
+            "id": "694",
+            "word": "thing",
+            "mean": "물건",
+            "speak": "씽"
+        },
+        {
+            "id": "695",
+            "word": "think",
+            "mean": "생각하다",
+            "speak": "씽크"
+        },
+        {
+            "id": "696",
+            "word": "thirsty",
+            "mean": "목마른",
+            "speak": "썰스티"
+        },
+        {
+            "id": "697",
+            "word": "this ",
+            "mean": "이~, 이사람, 이것",
+            "speak": "디스"
+        },
+        {
+            "id": "698",
+            "word": "thousand",
+            "mean": "천(1,000), 천의",
+            "speak": "싸우전드"
+        },
+        {
+            "id": "699",
+            "word": "through",
+            "mean": "~을 꿰뚫어, ~을 통과하여",
+            "speak": "쓰루"
+        },
+        {
+            "id": "700",
+            "word": "throw",
+            "mean": "던지다, 내던지다",
+            "speak": "쓰로우"
+        },
+        {
+            "id": "701",
+            "word": "thunder",
+            "mean": "천둥",
+            "speak": "썬더"
+        },
+        {
+            "id": "702",
+            "word": "ticket",
+            "mean": "표, 티켓",
+            "speak": "티켓"
+        },
+        {
+            "id": "703",
+            "word": "tie",
+            "mean": "~을 묶다, 매다, 넥타이",
+            "speak": "타이"
+        },
+        {
+            "id": "704",
+            "word": "tiger",
+            "mean": "호랑이",
+            "speak": "타이거"
+        },
+        {
+            "id": "705",
+            "word": "till",
+            "mean": "~할 때까지, ~까지",
+            "speak": "틸"
+        },
+        {
+            "id": "706",
+            "word": "time",
+            "mean": "시간, 시각, 곱하기, ~배, ~번",
+            "speak": "타임"
+        },
+        {
+            "id": "707",
+            "word": "tired",
+            "mean": "피곤한, 지친",
+            "speak": "타이어드"
+        },
+        {
+            "id": "708",
+            "word": "to",
+            "mean": "~에, ~로, ~에게",
+            "speak": "투"
+        },
+        {
+            "id": "709",
+            "word": "today",
+            "mean": "오늘",
+            "speak": "투데이"
+        },
+        {
+            "id": "710",
+            "word": "together",
+            "mean": "함께, 같이",
+            "speak": "투게더"
+        },
+        {
+            "id": "711",
+            "word": "tomato",
+            "mean": "토마토",
+            "speak": "토마토"
+        },
+        {
+            "id": "712",
+            "word": "tomorrow",
+            "mean": "내일",
+            "speak": "투마로우"
+        },
+        {
+            "id": "713",
+            "word": "tonight",
+            "mean": "오늘 밤",
+            "speak": "투나잇"
+        },
+        {
+            "id": "714",
+            "word": "too",
+            "mean": "또한, 역시, 너무, 지나치게",
+            "speak": "투우"
+        },
+        {
+            "id": "715",
+            "word": "tooth",
+            "mean": "이, 치아",
+            "speak": "투쓰"
+        },
+        {
+            "id": "716",
+            "word": "top",
+            "mean": "꼭대기, 최고",
+            "speak": "톱"
+        },
+        {
+            "id": "717",
+            "word": "touch",
+            "mean": "(손으로)만지다, ~에 대다",
+            "speak": "터치"
+        },
+        {
+            "id": "718",
+            "word": "town",
+            "mean": "소도시",
+            "speak": "타운"
+        },
+        {
+            "id": "719",
+            "word": "toy ",
+            "mean": "장난감",
+            "speak": "토이"
+        },
+        {
+            "id": "720",
+            "word": "train",
+            "mean": "기차",
+            "speak": "트레인"
+        },
+        {
+            "id": "721",
+            "word": "travel",
+            "mean": "여행하다",
+            "speak": "트레블"
+        },
+        {
+            "id": "722",
+            "word": "tree",
+            "mean": "나무",
+            "speak": "트리"
+        },
+        {
+            "id": "723",
+            "word": "trip",
+            "mean": "여행",
+            "speak": "트립"
+        },
+        {
+            "id": "724",
+            "word": "truck",
+            "mean": "트럭",
+            "speak": "트럭"
+        },
+        {
+            "id": "725",
+            "word": "true",
+            "mean": "진실의, 정말인",
+            "speak": "트루"
+        },
+        {
+            "id": "726",
+            "word": "try",
+            "mean": "~을 해보다, 시도하다",
+            "speak": "트라이"
+        },
+        {
+            "id": "727",
+            "word": "tulip",
+            "mean": "튤립",
+            "speak": "튤립"
+        },
+        {
+            "id": "728",
+            "word": "turn",
+            "mean": "돌다, ~을 돌리다",
+            "speak": "턴"
+        },
+        {
+            "id": "729",
+            "word": "twice",
+            "mean": "두 번, 2회",
+            "speak": "트와이스"
+        },
+        {
+            "id": "730",
+            "word": "umbrella",
+            "mean": "우산",
+            "speak": "엄블렐러"
+        },
+        {
+            "id": "731",
+            "word": "uncle",
+            "mean": "아저씨, 삼촌, 숙부",
+            "speak": "엉클"
+        },
+        {
+            "id": "732",
+            "word": "under",
+            "mean": "~의 밑에",
+            "speak": "언더"
+        },
+        {
+            "id": "733",
+            "word": "understand",
+            "mean": "이해하다, 알아듣다",
+            "speak": "언더스탠드"
+        },
+        {
+            "id": "734",
+            "word": "until",
+            "mean": "~까지",
+            "speak": "언틸"
+        },
+        {
+            "id": "735",
+            "word": "up",
+            "mean": "위로, 위쪽으로",
+            "speak": "업"
+        },
+        {
+            "id": "736",
+            "word": "use",
+            "mean": "~을 사용하다, 쓰다",
+            "speak": "유즈"
+        },
+        {
+            "id": "737",
+            "word": "usual",
+            "mean": "늘 하는, 흔히 있는",
+            "speak": "유주얼"
+        },
+        {
+            "id": "738",
+            "word": "vacation",
+            "mean": "방학, 휴가",
+            "speak": "바케이션"
+        },
+        {
+            "id": "739",
+            "word": "vegetable",
+            "mean": "채소, 야채",
+            "speak": "베지터블"
+        },
+        {
+            "id": "740",
+            "word": "very",
+            "mean": "아주, 대단히",
+            "speak": "베리"
+        },
+        {
+            "id": "741",
+            "word": "video",
+            "mean": "비디오",
+            "speak": "비디오"
+        },
+        {
+            "id": "742",
+            "word": "village",
+            "mean": "마을",
+            "speak": "빌리지"
+        },
+        {
+            "id": "743",
+            "word": "violin",
+            "mean": "바이올린",
+            "speak": "바이올린"
+        },
+        {
+            "id": "744",
+            "word": "visit",
+            "mean": "방문하다",
+            "speak": "비지트"
+        },
+        {
+            "id": "745",
+            "word": "wait",
+            "mean": "기다리다",
+            "speak": "웨잇"
+        },
+        {
+            "id": "746",
+            "word": "wake",
+            "mean": "잠이 깨다, ~을 깨우다",
+            "speak": "웨이크"
+        },
+        {
+            "id": "747",
+            "word": "walk",
+            "mean": "걷기, 산책, 걷다",
+            "speak": "워크"
+        },
+        {
+            "id": "748",
+            "word": "wall",
+            "mean": "벽, 담",
+            "speak": "월"
+        },
+        {
+            "id": "749",
+            "word": "want",
+            "mean": "~을 원하다, ~하고 싶다",
+            "speak": "원트"
+        },
+        {
+            "id": "750",
+            "word": "war",
+            "mean": "전쟁",
+            "speak": "워"
+        },
+        {
+            "id": "751",
+            "word": "warm",
+            "mean": "따뜻한",
+            "speak": "웜"
+        },
+        {
+            "id": "752",
+            "word": "wash",
+            "mean": "~을 씻다",
+            "speak": "워시"
+        },
+        {
+            "id": "753",
+            "word": "waste",
+            "mean": "낭비하다",
+            "speak": "웨이스트"
+        },
+        {
+            "id": "754",
+            "word": "watch",
+            "mean": "지켜보다, 시계",
+            "speak": "워치"
+        },
+        {
+            "id": "755",
+            "word": "water",
+            "mean": "물",
+            "speak": "워터"
+        },
+        {
+            "id": "756",
+            "word": "way",
+            "mean": "길, 도로, 방법, 방식",
+            "speak": "웨이"
+        },
+        {
+            "id": "757",
+            "word": "we",
+            "mean": "우리",
+            "speak": "위"
+        },
+        {
+            "id": "758",
+            "word": "weak",
+            "mean": "약한, 힘없는, 허약한",
+            "speak": "위크"
+        },
+        {
+            "id": "759",
+            "word": "wear",
+            "mean": "(옷을)입다",
+            "speak": "웨어"
+        },
+        {
+            "id": "760",
+            "word": "weather",
+            "mean": "날씨, 기후",
+            "speak": "웨더"
+        },
+        {
+            "id": "761",
+            "word": "week",
+            "mean": "주, 1주일",
+            "speak": "위크"
+        },
+        {
+            "id": "762",
+            "word": "welcome",
+            "mean": "환영하다",
+            "speak": "웰컴"
+        },
+        {
+            "id": "763",
+            "word": "well",
+            "mean": "잘, 훌륭하게",
+            "speak": "웰"
+        },
+        {
+            "id": "764",
+            "word": "west",
+            "mean": "서쪽",
+            "speak": "웨스트"
+        },
+        {
+            "id": "765",
+            "word": "wet",
+            "mean": "젖은",
+            "speak": "웻"
+        },
+        {
+            "id": "766",
+            "word": "what",
+            "mean": "무엇, 무슨",
+            "speak": "왓"
+        },
+        {
+            "id": "767",
+            "word": "when",
+            "mean": "~할 때, 언제",
+            "speak": "웬"
+        },
+        {
+            "id": "768",
+            "word": "where",
+            "mean": "~곳, 어디에",
+            "speak": "웨어"
+        },
+        {
+            "id": "769",
+            "word": "which",
+            "mean": "어느 것, 어느~",
+            "speak": "위치"
+        },
+        {
+            "id": "770",
+            "word": "white",
+            "mean": "흰색",
+            "speak": "화이트"
+        },
+        {
+            "id": "771",
+            "word": "who",
+            "mean": "누구",
+            "speak": "후"
+        },
+        {
+            "id": "772",
+            "word": "why",
+            "mean": "왜, 어째서",
+            "speak": "와이"
+        },
+        {
+            "id": "773",
+            "word": "wide",
+            "mean": "폭이 넓은",
+            "speak": "와이드"
+        },
+        {
+            "id": "774",
+            "word": "will",
+            "mean": "~일 것이다, ~하겠다",
+            "speak": "윌"
+        },
+        {
+            "id": "775",
+            "word": "win",
+            "mean": "이기다",
+            "speak": "윈"
+        },
+        {
+            "id": "776",
+            "word": "wind",
+            "mean": "바람, ~을 감다",
+            "speak": "윈드"
+        },
+        {
+            "id": "777",
+            "word": "window",
+            "mean": "창문",
+            "speak": "윈도우"
+        },
+        {
+            "id": "778",
+            "word": "wing",
+            "mean": "(새.곤충 등의) 날개",
+            "speak": "윙"
+        },
+        {
+            "id": "779",
+            "word": "winter",
+            "mean": "겨울",
+            "speak": "위터"
+        },
+        {
+            "id": "780",
+            "word": "with",
+            "mean": "~와 함께, ~으로, ~을 써서",
+            "speak": "위드"
+        },
+        {
+            "id": "781",
+            "word": "woman",
+            "mean": "여자, 여성",
+            "speak": "우먼"
+        },
+        {
+            "id": "782",
+            "word": "wonder",
+            "mean": "놀랄 만한 일, 궁금해 하다",
+            "speak": "원더"
+        },
+        {
+            "id": "783",
+            "word": "wood",
+            "mean": "목재, 재목",
+            "speak": "우드"
+        },
+        {
+            "id": "784",
+            "word": "word",
+            "mean": "단어, 낱말",
+            "speak": "워드"
+        },
+        {
+            "id": "785",
+            "word": "work",
+            "mean": "일, 일하다",
+            "speak": "워크"
+        },
+        {
+            "id": "786",
+            "word": "world",
+            "mean": "세계, 세상",
+            "speak": "월드"
+        },
+        {
+            "id": "787",
+            "word": "write",
+            "mean": "쓰다",
+            "speak": "라이트"
+        },
+        {
+            "id": "788",
+            "word": "wrong",
+            "mean": "나쁜, 잘못된, 틀린",
+            "speak": "롱"
+        },
+        {
+            "id": "789",
+            "word": "X mas",
+            "mean": "Christmas의 줄임말",
+            "speak": "엑스 마스"
+        },
+        {
+            "id": "790",
+            "word": "xylophone",
+            "mean": "실로폰 ",
+            "speak": "실로폰"
+        },
+        {
+            "id": "791",
+            "word": "yeah",
+            "mean": "네",
+            "speak": "야"
+        },
+        {
+            "id": "792",
+            "word": "year",
+            "mean": "해, 년",
+            "speak": "이어"
+        },
+        {
+            "id": "793",
+            "word": "yellow",
+            "mean": "노란색",
+            "speak": "엘로우"
+        },
+        {
+            "id": "794",
+            "word": "yes",
+            "mean": "네",
+            "speak": "예스"
+        },
+        {
+            "id": "795",
+            "word": "yesterday",
+            "mean": "어제",
+            "speak": "예스터데이"
+        },
+        {
+            "id": "796",
+            "word": "yet",
+            "mean": "아직, 벌써",
+            "speak": "옛"
+        },
+        {
+            "id": "797",
+            "word": "you",
+            "mean": "너, 너희들, 당신(들)",
+            "speak": "유"
+        },
+        {
+            "id": "798",
+            "word": "young",
+            "mean": "젊은, 어린",
+            "speak": "영"
+        },
+        {
+            "id": "799",
+            "word": "zero",
+            "mean": "영(0)",
+            "speak": "제로"
+        },
+        {
+            "id": "800",
+            "word": "zoo",
+            "mean": "동물원",
+            "speak": "주우"
+        }
+    ]
+}
