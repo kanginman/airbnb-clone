@@ -21,6 +21,3 @@ class Reservation(core_models.TimeStampedModel):
     check_out = models.DateField()
     guest = models.ForeignKey("users.User", on_delete=models.CASCADE)
     room = models.ForeignKey("rooms.Room", on_delete=models.CASCADE)
-
-    def __str__(self):
-        return f"{self.room} - {self.check_in}"
