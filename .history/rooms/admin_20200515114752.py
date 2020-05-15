@@ -40,7 +40,7 @@ class RoomAdmin(admin.ModelAdmin):
         "check_in",
         "check_out",
         "instant_book",
-        "count_amenity",
+        "amenity",
     )
 
     # ordering = ("name", "price", "bedrooms")
@@ -64,11 +64,6 @@ class RoomAdmin(admin.ModelAdmin):
     )
 
     def count_amenity(self, obj):
-        print(obj.amenity.all())
-        return "Fdasfdsafdsa"
-
-    count_amenity.short_description = "sexy"
-
 
 @admin.register(models.Photo)
 class PhotoAdmin(admin.ModelAdmin):

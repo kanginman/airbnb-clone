@@ -20,10 +20,7 @@ class RoomAdmin(admin.ModelAdmin):
         ),
         ("Times", {"fields": ("check_in", "check_out", "instant_book")}),
         ("Spaces", {"fields": ("guests", "beds", "bedrooms", "baths")}),
-        (
-            "More About the Space",
-            {"classes": ("collapse",), "fields": ("amenity", "facility", "houseRule"),},
-        ),
+        ("More About the Space", {"fields": ("amenity", "facility", "houseRule"),},),
         ("Last Details", {"fields": ("host",)}),
     )
 
@@ -40,10 +37,7 @@ class RoomAdmin(admin.ModelAdmin):
         "check_in",
         "check_out",
         "instant_book",
-        "count_amenity",
     )
-
-    # ordering = ("name", "price", "bedrooms")
 
     list_filter = (
         "instant_book",
@@ -62,12 +56,6 @@ class RoomAdmin(admin.ModelAdmin):
         "facility",
         "houseRule",
     )
-
-    def count_amenity(self, obj):
-        print(obj.amenity.all())
-        return "Fdasfdsafdsa"
-
-    count_amenity.short_description = "sexy"
 
 
 @admin.register(models.Photo)

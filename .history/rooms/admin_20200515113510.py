@@ -27,6 +27,14 @@ class RoomAdmin(admin.ModelAdmin):
         ("Last Details", {"fields": ("host",)}),
     )
 
+    fieldsets = (
+        (
+            "Baisc Info",
+            {"fields": (("name", "description", "country", "address", "price"))},
+        ),
+        ("Times", {"fields": ("check_in", "check_out", "instant_book")}),
+    )
+
     list_display = (
         "name",
         "country",
@@ -40,10 +48,7 @@ class RoomAdmin(admin.ModelAdmin):
         "check_in",
         "check_out",
         "instant_book",
-        "count_amenity",
     )
-
-    # ordering = ("name", "price", "bedrooms")
 
     list_filter = (
         "instant_book",
@@ -62,12 +67,6 @@ class RoomAdmin(admin.ModelAdmin):
         "facility",
         "houseRule",
     )
-
-    def count_amenity(self, obj):
-        print(obj.amenity.all())
-        return "Fdasfdsafdsa"
-
-    count_amenity.short_description = "sexy"
 
 
 @admin.register(models.Photo)

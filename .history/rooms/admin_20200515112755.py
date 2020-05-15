@@ -13,7 +13,7 @@ class ItemAdmin(admin.ModelAdmin):
 class RoomAdmin(admin.ModelAdmin):
     """ Room Admin Definition """
 
-    fieldsets = (
+fieldsets = (
         (
             "Basic Info",
             {"fields": ("name", "description", "country", "address", "price")},
@@ -22,11 +22,13 @@ class RoomAdmin(admin.ModelAdmin):
         ("Spaces", {"fields": ("guests", "beds", "bedrooms", "baths")}),
         (
             "More About the Space",
-            {"classes": ("collapse",), "fields": ("amenity", "facility", "houseRule"),},
+            {
+                "classes": ("collapse",),
+                "fields": ("amenities", "facilities", "house_rules"),
+            },
         ),
         ("Last Details", {"fields": ("host",)}),
     )
-
     list_display = (
         "name",
         "country",
@@ -40,10 +42,7 @@ class RoomAdmin(admin.ModelAdmin):
         "check_in",
         "check_out",
         "instant_book",
-        "count_amenity",
     )
-
-    # ordering = ("name", "price", "bedrooms")
 
     list_filter = (
         "instant_book",
@@ -62,12 +61,6 @@ class RoomAdmin(admin.ModelAdmin):
         "facility",
         "houseRule",
     )
-
-    def count_amenity(self, obj):
-        print(obj.amenity.all())
-        return "Fdasfdsafdsa"
-
-    count_amenity.short_description = "sexy"
 
 
 @admin.register(models.Photo)
